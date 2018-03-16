@@ -1884,9 +1884,9 @@ cite {
   padding: 1rem 0;
   text-align: center; }
   .copyright p {
-    color: #ffffff;
+    color: #6e6e6e;
     font-size: 0.7rem;
-    text-transform: uppercase;
+    text-transform: none;
     margin: 0; }
   .copyright a {
     text-decoration: none;
