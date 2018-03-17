@@ -1681,7 +1681,7 @@ cite {
   clear: both; }
 
 .main_header {
-  padding: 2rem;
+  padding: 1.25rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1903,7 +1903,7 @@ cite {
 .post_content {
   width: 960px;
   max-width: 90%;
-  margin: 7rem auto 7rem; }
+  margin: 2rem auto; }
 
 .post {
   background-color: #ffffff;
@@ -2281,7 +2281,8 @@ cite {
   .copyright {
     padding: 1rem 0; }
     .copyright p {
-      font-size: 0.7rem; }
+      font-size: 0.7rem;
+      line-height: 1.25; }
 
   .post header .post_meta {
     font-size: 0.8rem; }
