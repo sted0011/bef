@@ -1662,7 +1662,7 @@ cite {
   margin: 0 auto; }
 
 .button_back {
-  color: #ffffff;
+  color: #525c65;
   font-size: 1.1rem;
   text-decoration: none;
   font-style: italic;
@@ -2138,9 +2138,6 @@ cite {
   background-position: 75% 50%;
   background-repeat: no-repeat;
   overflow: auto; }
-
-.button_back {
-  color: #text_color; }
 
 .container_contact {
   position: absolute;
