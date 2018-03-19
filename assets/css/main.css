@@ -2139,6 +2139,9 @@ cite {
   background-repeat: no-repeat;
   overflow: auto; }
 
+.button_back {
+  color: #text_color; }
+
 .container_contact {
   position: absolute;
   top: 50%;
@@ -2174,13 +2177,13 @@ cite {
       text-transform: uppercase;
       outline: none;
       border: none;
-      background-color: rgba(152, 209, 211, 0.4);
+      background-color: rgba(152, 209, 211, 0.6);
       padding: 1rem 3rem;
       border-radius: 3rem;
       cursor: pointer;
       transition: all 0.3s ease-in-out; }
       .container_contact .form .form_btn:hover {
-        background-color: rgba(152, 209, 211, 0.6);
+        background-color: rgba(152, 209, 211, 0.8);
         color: #525c65; }
       .container_contact .form .form_btn:active {
         transform: translateY(2px); }
