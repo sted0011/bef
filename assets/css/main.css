@@ -2349,6 +2349,9 @@ cite {
     padding-right: 0.5rem;
     margin: 0 0.5rem 0.5rem 0; }
 
+  .contact {
+    background-position: 50% 50%; }
+
   .recent_box .recent_title {
     font-size: 1.3rem; }
   .recent_box .recent_list .recent_item {
