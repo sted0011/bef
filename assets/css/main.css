@@ -2136,7 +2136,8 @@ cite {
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
-  overflow: auto; }
+  overflow: auto;
+  background-color: #ffffff; }
 
 .container_contact {
   position: absolute;
