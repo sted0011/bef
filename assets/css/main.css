@@ -2135,7 +2135,7 @@ cite {
   position: relative;
   background-image: url(../img/Grid_Paper_Lets_Connect.png);
   background-size: cover;
-  background-position: center;
+  background-position: 75% 50%;
   background-repeat: no-repeat;
   overflow: auto; }
 
@@ -2166,7 +2166,7 @@ cite {
       width: 100%;
       padding: 1rem;
       background-color: rgba(0, 0, 0, 0.4);
-      color: #ffffff;
+      color: #000;
       font-weight: 300;
       transition: all 0.35s ease-in-out; }
       .container_contact .form input:focus, .container_contact .form textarea:focus {
