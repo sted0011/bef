@@ -2142,9 +2142,9 @@ cite {
 .container_contact {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 30%;
   transform: translate(-50%, -50%);
-  width: 960px;
+  width: 50%;
   max-width: 100%; }
   .container_contact .form_title {
     text-align: center;
@@ -2290,7 +2290,14 @@ cite {
     font-size: 1.6rem; }
 
   .author .author_social span {
-    font-size: 0.7rem; } }
+    font-size: 0.7rem; }
+
+  .container_contact {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    max-width: 100%; } }
 @media only screen and (max-width: 600px) {
   .chapters {
     padding: 2rem 0; }
