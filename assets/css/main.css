@@ -2137,12 +2137,8 @@ cite {
   overflow: auto; }
 
 .container_contact {
-  position: absolute;
-  top: 50%;
-  left: 50%;
   transform: translate(-50%, -50%);
-  width: 50%;
-  max-width: 100%; }
+  width: 50%; }
   .container_contact .form_title {
     text-align: center;
     text-transform: uppercase;
@@ -2294,6 +2290,9 @@ cite {
     .chapters .chapter {
       width: 99%;
       margin: 0 0.5% 2% 0.5%; }
+
+  .container_contact {
+    width: 100%; }
 
   .copyright p {
     font-size: 0.6rem; }
