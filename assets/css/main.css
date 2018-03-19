@@ -2138,14 +2138,15 @@ cite {
   background-repeat: repeat;
   overflow: auto;
   background-color: #ffffff; }
+  .contact .form_bgimage {
+    width: 40%;
+    float: right;
+    z-index: -1; }
 
 .container_contact {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 960px;
-  max-width: 100%; }
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto; }
   .container_contact .form_title {
     text-align: center;
     text-transform: uppercase;
