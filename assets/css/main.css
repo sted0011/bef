@@ -2150,7 +2150,7 @@ cite {
     text-align: center;
     text-transform: uppercase;
     font-size: 1.2rem;
-    color: #525c65; }
+    color: #1c1c1c; }
     .container_contact .form_title::before, .container_contact .form_title::after {
       content: " — "; }
   .container_contact .form {
@@ -2167,20 +2167,20 @@ cite {
       font-weight: 300;
       transition: all 0.35s ease-in-out; }
       .container_contact .form input:focus, .container_contact .form textarea:focus {
-        background-color: rgba(191, 127, 127, 0.6); }
+        background-color: rgba(152, 209, 211, 0.6); }
     .container_contact .form .form_btn {
       width: inherit;
       color: #525c65;
       text-transform: uppercase;
       outline: none;
       border: none;
-      background-color: rgba(255, 255, 255, 0.4);
+      background-color: rgba(152, 209, 211, 0.4);
       padding: 1rem 3rem;
       border-radius: 3rem;
       cursor: pointer;
       transition: all 0.3s ease-in-out; }
       .container_contact .form .form_btn:hover {
-        background-color: rgba(191, 127, 127, 0.6);
+        background-color: rgba(152, 209, 211, 0.6);
         color: #525c65; }
       .container_contact .form .form_btn:active {
         transform: translateY(2px); }
