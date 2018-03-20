@@ -39,26 +39,28 @@
     input, textarea
       width: 100%
       padding: 1rem
-      background-color: rgba(0, 0, 0, 0.4)
-      color: #000
+      background-color: $light_blue
+      color: #000 
+      -webkit-text-fill-color: #000
       font-weight: 300
       transition: all .35s ease-in-out
       &:focus
-        background-color: rgba(152, 209, 211, 0.6)
+        background-color: #b9d8db
     .form_btn
       width: inherit
       color: $text_color
       text-transform: uppercase
       outline: none
       border: none
-      background-color: rgba(152, 209, 211, 0.6)
+      background-color: rgba(0, 0, 0, 0.9)
+      -webkit-text-fill-color: $white
       margin-top: 1.5rem
       padding: 1rem 3rem
       border-radius: 3rem
       cursor: pointer
       transition: all .3s ease-in-out
       &:hover
-        background-color: rgba(152, 209, 211, 0.8)
+        background-color: $dark_gray
         color: $text_color
       &:active
         transform: translateY(2px)
