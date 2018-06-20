@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Send me a postcard / Drop me a line"
+title: "Send me a postcard | Drop me a line"
 img: Postcard.png # Add image post (optional)
 date: 2013-09-28 12:00:00 
 description: Personal Postcard # Add post description (optional)

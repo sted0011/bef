@@ -12,4 +12,4 @@ Most communication is non-verbal, and therefore giving life to flat characters r
 
 <iframe src="https://player.vimeo.com/video/272139075" width="100%" max-width="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><a href="https://vimeo.com/270125816">The Essential Guide to Animation</a> from <a href="https://vimeo.com/user58717395">Tiffany Stedman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-> Oh yeah! <cite>- Rusty, the Robot</cite>
+> Oh yeah! <cite>- The Robot</cite>
