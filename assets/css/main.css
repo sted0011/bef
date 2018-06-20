@@ -1738,6 +1738,7 @@ cite {
       .chapters .chapter img:hover {
         transform: scale(1.5); }
   .chapters .chapter_inner {
+    display: none;
     position: absolute;
     left: 2.5%;
     bottom: 10%; }
@@ -1927,12 +1928,12 @@ cite {
       font-size: 1.1rem;
       margin: 0;
       color: #ffffff;
-      background-color: rgba(149, 188, 191, 0.4); }
+      background-color: #95bcbf; }
     .post header .post_title {
       padding: 1rem;
       font-size: 2rem;
       margin: 0;
-      background-color: rgba(29, 132, 135, 0.4);
+      background-color: #1d8487;
       color: #ffffff; }
   .post .entry_content {
     padding-bottom: 2rem; }
