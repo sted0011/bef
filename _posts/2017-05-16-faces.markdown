@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Talking Heads"
+img: Faces.png # Add image post (optional)
+date: 2017-05-16 12:00:00 
+description: Graphic illustration of faces # Add post description (optional)
+tag: [Illustration, Whimsical, Just for Fun]
+---
+
+This design is a concept for an annual summer intern t-shirt.  Set the corporate blue color palette, the themes of the hand-drawn illustration are collaboration and unity.  I vectorized my ink drawing, and then added color with Adobe Illustrator.
+
+> "There's a party in my mind, and I hope it never stops / There's a party up there all the time, and they'll party until they drop." <cite>- Talking Heads</cite>
