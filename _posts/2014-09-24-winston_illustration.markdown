@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Woof"
+title: "Woof!"
 img: Winston.png # Add image post (optional)
 date: 2014-09-24 12:00:00 
 description: Meet my Portuguese Water Dog, Winston # Add post description (optional)
