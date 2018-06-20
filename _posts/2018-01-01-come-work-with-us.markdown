@@ -3,6 +3,7 @@ layout: post
 title: "Come Work With Us"
 img: Come_Work_With_Us.png # Add image post (optional)
 date: 2018-01-01 12:00:00 
+type: Video Production + Animation
 description: Recruiting Video for Trading Technologies # Add post description (optional)
 tag: [Producer, Animator, Award Winner]
 ---

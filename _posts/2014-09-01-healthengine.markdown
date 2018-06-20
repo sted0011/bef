@@ -3,6 +3,7 @@ layout: post
 title: "Logos, Websites, and Branding; Oh my!"
 img: HealthEngine.png # Add image post (optional)
 date: 2014-09-01 12:00:00 
+type: Web Design + Logo + Branding
 description: Logo and Branding Project for Healthcare Startup # Add post description (optional)
 tag: [Logo, Website, Branding]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Method to the Madness"
 img: ElasticMethod.png # Add image post (optional)
 date: 2014-08-01 12:00:00 
+type: Graphic Design + Logo
 description: Logo Project for Elastic Method # Add post description (optional)
 tag: [Logo]
 ---

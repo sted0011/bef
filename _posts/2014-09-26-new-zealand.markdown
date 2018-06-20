@@ -3,6 +3,7 @@ layout: post
 title: "Island Adventure"
 img: NewZealand.png # Add image post (optional)
 date: 2014-09-26 12:00:00 
+type: Illustration + Print + Layout
 description: Travel Guide to New Zealand's North Island # Add post description (optional)
 tag: [Collage, Wedding, Joy]
 ---
