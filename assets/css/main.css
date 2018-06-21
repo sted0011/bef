@@ -1738,7 +1738,6 @@ cite {
       .chapters .chapter img:hover {
         transform: scale(1.5); }
   .chapters .chapter_inner {
-    display: none;
     position: absolute;
     left: 2.5%;
     bottom: 10%; }
