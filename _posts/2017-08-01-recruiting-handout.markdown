@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You Might Need a Handout"
+title: "Handout to Standout"
 img: Recruiting_Handout.png # Add image post (optional)
 imgCard: Recruiting_Handout-01.png
 date: 2017-08-01 12:00:00 
