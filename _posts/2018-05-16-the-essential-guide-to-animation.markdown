@@ -2,6 +2,7 @@
 layout: post
 title: "Tell Me a Story"
 img: The_Essential_Guide_to_Animation.png # Add image post (optional)
+imgCard: The_Essential_Guide_to_Animation-01.png
 date: 2018-05-16 12:00:00 
 type: Animation
 description: The Essential Guide to Animation # Add post description (optional)

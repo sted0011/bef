@@ -2,6 +2,7 @@
 layout: post
 title: "Send me a postcard; Drop me a line"
 img: Postcard.png # Add image post (optional)
+imgCard: Postcard-01.png 
 date: 2013-09-28 12:00:00 
 type: Graphic Design + Print
 description: Personal Postcard # Add post description (optional)

@@ -2,6 +2,7 @@
 layout: post
 title: "You Might Need a Handout"
 img: Recruiting_Handout.png # Add image post (optional)
+imgCard: Recruiting_Handout-01.png
 date: 2017-08-01 12:00:00 
 type: Graphic Design + Print
 description: Recruiting Handout for Trading Technologies # Add post description (optional)

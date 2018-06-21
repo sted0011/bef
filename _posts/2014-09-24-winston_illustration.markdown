@@ -2,6 +2,7 @@
 layout: post
 title: "Woof!"
 img: Winston.png # Add image post (optional)
+imgCard: Winston.png 
 date: 2014-09-24 12:00:00 
 type: Illustration
 description: Meet my Portuguese Water Dog, Winston # Add post description (optional)
