@@ -1944,10 +1944,10 @@ cite {
       margin: 0;
       background-color: #1d8487;
       color: #ffffff; }
-  .post .post_image_addl img {
-    width: 100%; }
   .post .entry_content {
     padding-bottom: 2rem; }
+    .post .entry_content .post_image_addl img {
+      width: 100%; }
 
 .post_footer {
   padding: 2rem 0;
