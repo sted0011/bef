@@ -1733,7 +1733,7 @@ cite {
     margin: 0 0.5% 1% 0.5%;
     overflow: hidden;
     transition: transform 0.4s;
-    box-shadow: 3px 3px 25px #1c1c1c; }
+    box-shadow: 3px 3px 25px #bbbbbb; }
     .chapters .chapter a {
       text-decoration: none; }
     .chapters .chapter img {
@@ -1864,14 +1864,13 @@ cite {
     margin: 0px auto; }
 
 .main_footer {
-  background-color: #1c1c1c; }
+  background-color: #000000; }
 
 .social_footer {
   padding: 3rem 0;
   list-style: none;
   margin: 0;
-  text-align: center;
-  border-bottom: 1px solid #333333; }
+  text-align: center; }
   .social_footer li {
     display: inline-block;
     margin-left: 0.5rem; }
@@ -1917,7 +1916,9 @@ cite {
 
 .post {
   background-color: #ffffff;
-  margin-bottom: 1.5rem; }
+  margin-bottom: 1.5rem;
+  box-shadow: 3px 3px 20px #bbbbbb;
+  border: solid 1px #e6f4f6; }
   .post header {
     position: relative;
     overflow: hidden;
@@ -2018,9 +2019,12 @@ cite {
         opacity: 0.9; }
 
 .recent_box {
-  background-color: #ffffff;
+  background-color: #000000;
   padding: 2rem 0;
-  margin-bottom: 1.5rem; }
+  margin-bottom: 1.5rem;
+  border: solid 1px #e6f4f6;
+  box-shadow: 3px 3px 20px #bbbbbb;
+  color: #ffffff; }
   .recent_box .recent_title {
     font-size: 1.5rem;
     text-align: center;
@@ -2068,9 +2072,9 @@ cite {
     #tags .tags li {
       float: left;
       margin: 0 0.5rem 0.5rem 0;
-      border-radius: 5rem;
+      border-radius: 0rem;
       background-color: #95bcbf;
-      box-shadow: 2px 2px 5px #ccc;
+      box-shadow: 2px 2px 5px #bbbbbb;
       transition: all 0.35s; }
       #tags .tags li:hover {
         background-color: rgba(29, 132, 135, 0.75); }
@@ -2115,9 +2119,12 @@ cite {
   background-position: 50% 50%;
   background-repeat: no-repeat; }
   .about .author {
-    border-radius: 0.5rem;
+    border-radius: 0rem;
     margin-bottom: 1rem;
-    border: solid 1px #e6f4f6; }
+    border: solid 1px #e6f4f6;
+    box-shadow: 3px 3px 20px #bbbbbb;
+    padding-left: 15px;
+    padding-right: 15px; }
     .about .author .author_image {
       float: none;
       display: block;
