@@ -1744,7 +1744,8 @@ cite {
         transform: scale(1.5); }
   .chapters .chapter_inner {
     position: absolute;
-    bottom: 10%; }
+    bottom: 10%;
+    display: none; }
     .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
       color: #ffffff; }
     .chapters .chapter_inner .chapter_number {
@@ -1881,9 +1882,10 @@ cite {
     margin: 0.3rem 0;
     text-decoration: none;
     font-size: 1.75rem;
-    border-radius: 0.3rem;
     background-color: #262626;
-    transition: all 0.35s ease-in-out; }
+    transition: all 0.35s ease-in-out;
+    border-radius: 32px;
+    width: 125px; }
     .social_footer a:hover {
       background-color: #1d8487;
       color: #ffffff; }
@@ -2066,10 +2068,9 @@ cite {
     #tags .tags li {
       float: left;
       margin: 0 0.5rem 0.5rem 0;
-      border: 1px solid #1d8487;
-      border-radius: 0.5rem;
+      border-radius: 5rem;
       background-color: #95bcbf;
-      box-shadow: 0 2px 0 #1d8487;
+      box-shadow: 2px 2px 5px #ccc;
       transition: all 0.35s; }
       #tags .tags li:hover {
         background-color: rgba(29, 132, 135, 0.75); }
@@ -2125,7 +2126,7 @@ cite {
       padding: 0;
       text-align: center; }
   .about .about_social {
-    border-radius: 0.5rem;
+    border-radius: 35rem;
     overflow: hidden; }
     .about .about_social .social_footer {
       padding: 0;
@@ -2293,7 +2294,8 @@ cite {
     .social_footer a {
       padding: 0.5rem 1rem;
       font-size: 1.35rem;
-      border-radius: 0.3rem; }
+      border-radius: 5rem;
+      width: 115px; }
 
   .copyright {
     padding: 1rem 0; }
