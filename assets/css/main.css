@@ -1722,7 +1722,7 @@ cite {
       margin: 0 auto 2rem auto;
       line-height: 2.5rem;
       font-style: italic;
-      background: #5477a9; }
+      background: #1d8487; }
 
 .chapters {
   padding: 2rem 0; }
@@ -1835,7 +1835,7 @@ cite {
   position: fixed;
   bottom: 25px;
   background-color: #333333;
-  border-radius: 0.3rem;
+  border-radius: 5rem;
   color: #ffffff;
   font-size: 25px;
   width: 50px;
@@ -1917,8 +1917,7 @@ cite {
 .post {
   background-color: #ffffff;
   margin-bottom: 1.5rem;
-  box-shadow: 3px 3px 20px #bbbbbb;
-  border: solid 1px #e6f4f6; }
+  box-shadow: 3px 3px 20px #bbbbbb; }
   .post header {
     position: relative;
     overflow: hidden;
@@ -1945,6 +1944,8 @@ cite {
       margin: 0;
       background-color: #1d8487;
       color: #ffffff; }
+  .post .post_image_addl img {
+    width: 100%; }
   .post .entry_content {
     padding-bottom: 2rem; }
 
@@ -1997,11 +1998,14 @@ cite {
   .author .author_info {
     padding-left: 8rem; }
     .author .author_info .author_title {
-      font-size: 1.5rem;
+      font-size: 1.75rem;
       margin-top: 0;
       color: #262626; }
       .author .author_info .author_title::before, .author .author_info .author_title::after {
         content: " — "; }
+    .author .author_info .author_subtitle {
+      padding-left: 15px;
+      padding-right: 15px; }
   .author .author_social span {
     display: inline-block;
     color: #667085;
@@ -2132,6 +2136,11 @@ cite {
     .about .author .author_info {
       padding: 0;
       text-align: center; }
+      .about .author .author_info .author_title {
+        font-size: 1.75rem; }
+      .about .author .author_info .author_subtitle {
+        padding-left: 15px;
+        padding-right: 15px; }
   .about .about_social {
     border-radius: 35rem;
     overflow: hidden; }

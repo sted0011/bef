@@ -14,7 +14,6 @@
   background-color: $white
   margin-bottom: 1.5rem
   box-shadow: 3px 3px 20px $shadow
-  border: solid 1px #e6f4f6
   header
     position: relative
     overflow: hidden
@@ -41,6 +40,10 @@
       margin: 0
       background-color: rgba($highlight, 1)
       color: $white
+  .post_image_addl 
+    img
+      width: 100%
+
 
   .entry_content
     padding-bottom: 2rem
@@ -94,12 +97,16 @@
   .author_info
     padding-left: 8rem
     .author_title
-      font-size: 1.5rem
+      font-size: 1.75rem
       margin-top: 0
       color: $dark_gray
       &::before,
       &::after
         content: " — "
+    .author_subtitle
+      padding-left: 15px
+      padding-right: 15px
+
   .author_social
     span
       display: inline-block

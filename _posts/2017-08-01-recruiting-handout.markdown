@@ -9,4 +9,4 @@ description: Recruiting Handout for Trading Technologies # Add post description 
 tag: [Design, Innovate, Differentiate]
 ---
 
-Trading Technologies wanted a recruiting handout that stood out.  The square handout unfolds to an polygon, both shapes reflecting the angular brand and logo.  The visuals also incorporate brand elements: overlapping linear rectangles set at a 45-degree angle, full-color moodier photographs, and a macro view of our software product.
+Trading Technologies requested a bold and different handout that stood out from the pack.  I conceived of an inital square handout unfolds to an polygon, shapes reflecting the angular logo and brand.  The handout's visuals incorporate brand elements: overlapping linear rectangles set at a 45-degree angle; a full-color, moodier photograph; and a macro views of the software product that I drew in Illustrator to ensure their crisp presentation.
