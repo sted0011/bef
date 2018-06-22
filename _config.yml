@@ -1,13 +1,13 @@
 logo: logo_tsk_creative.svg
 title: TSKCreative
 description: > # this means to ignore newlines until "baseurl:"
-  TSK Creative specializes in graphic, logo, and web design.  Tiffany Stedman Kotowski is the principal. She is based out of Chicago, IL.
+  TSK Creative specializes in graphic, logo, and web design.  Tiffany Stedman Kotowski is based out of Chicago, IL.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sted0011.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: MovingStripes.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
