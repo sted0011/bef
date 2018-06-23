@@ -12,4 +12,9 @@ This illustrated map visually showcases the transportation methods, days, and dr
 
 The map was the cover image for a multi-page travel guide, setting forth the day-by-day activity guide.  I set the informal guide in a loose, angled layout, reminiscent of a handwritten travel journal, and organized the layout for print using Adobe InDesign.  The final 8.5"x5.5" book was printed on a semi-gloss paper, folded, and staple bound.  
 
-> Isn't this how everyone plans for a vacation? <cite>- Me</cite>
+<div class="post_image_addl">
+    <img src="/assets/img/NewZealand_Book.png" alt="Image of New Zealand Map Illustration and Sample Book Page">
+</div>
+
+
+> Isn't this how every graphic designer plans a vacation? <cite>- Me</cite>
