@@ -1949,6 +1949,10 @@ cite {
     padding-bottom: 2rem; }
     .post .entry_content .post_image_addl img {
       width: 100%; }
+    .post .entry_content a, .post .entry_content a:link, .post .entry_content a:visited {
+      color: #1d8487; }
+    .post .entry_content a:active, .post .entry_content a:hover {
+      color: #95bcbf; }
 
 .post_footer {
   padding: 2rem 0;
