@@ -17,5 +17,5 @@ Dreams are rarely realized without planning, and so too are animations without s
 <div class="post_image_addl">
     <img src="/assets/img/Storyboard-B.png" alt="Storyline Exploration for an Animation Storyboard">
 </div>
-<br/><br/>
+<br/>
 > There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.  <cite>- Douglas H. Everett</cite>
