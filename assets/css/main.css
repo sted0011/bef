@@ -1950,7 +1950,8 @@ cite {
     .post .entry_content .post_image_addl img {
       width: 100%; }
     .post .entry_content a, .post .entry_content a:link, .post .entry_content a:visited {
-      color: #1d8487; }
+      color: #1d8487;
+      text-decoration: none; }
     .post .entry_content a:active, .post .entry_content a:hover {
       color: #95bcbf; }
 

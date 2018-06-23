@@ -28,5 +28,5 @@ On the website: The company needed an informational website to reach its custome
     <img src="/assets/img/HealthEngine-Assets.png" alt="HealthEngine assets">
 </div>
 
-
+<br/>
 > "It is only by association with a product, a service, a business, or a corporation that a logo takes on any real meaning . . . It derives its meaning and usefulness from the quality of that which it symbolizes." <cite>- Paul Rand</cite>
