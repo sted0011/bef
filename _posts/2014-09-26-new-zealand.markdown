@@ -16,5 +16,4 @@ The map was the cover image for a multi-page travel guide, setting forth the day
     <img src="/assets/img/NewZealand-Book.png" alt="Image of New Zealand Map Illustration and Sample Book Page">
 </div>
 
-<br/>
 > Isn't this how every graphic designer plans a vacation? <cite>- Me</cite>
