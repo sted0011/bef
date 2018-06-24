@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show and Tell"
+title: "Moving Pictures"
 img: VideoEditing.png # Add image post (optional)
 imgCard: VideoEditing-01.png
 date: 2017-06-01 12:00:00 
