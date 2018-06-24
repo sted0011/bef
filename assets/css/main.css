@@ -1686,7 +1686,6 @@ cite {
   justify-content: space-between;
   align-items: center;
   background-color: #ffffff;
-  z-index: 1;
   box-shadow: 3px 3px 20px #bbbbbb; }
   .main_header .logo {
     color: #1c1c1c;
@@ -2118,7 +2117,7 @@ cite {
   left: 50%;
   transform: translate(-50%, -50%);
   overflow: auto;
-  margin-top: 75px; }
+  margin-top: 150px; }
 
 .about {
   position: relative;
