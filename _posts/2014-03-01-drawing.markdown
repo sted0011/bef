@@ -8,7 +8,7 @@ type: Drawing
 description: Two of my drawings # Add post description (optional)
 tag: [Drawing, Imagination]
 ---
-Drawing has always come naturally to me.  Naturally, humans and dogs are my favorite subjects.  Here are two examples of my work.  Both are pencil and charcoal.
+Drawing has always come naturally to me.  As you might have guessed, humans and dogs are my favorite subjects.  Here are two examples of my work.  Both are pencil and charcoal.
 
 <div class="post_image_addl">
     <img src="/assets/img/Drawing-Winston.png" alt="Hand-drawn picture of my dog">
