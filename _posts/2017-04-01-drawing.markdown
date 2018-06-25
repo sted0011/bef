@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Drawing from Life"
+img: Drawing-Ballerina.png # Add image post (optional)
+imgCard: Drawing-Ballerina-01.png 
+date: 2017-04-01 12:00:00 
+type: Drawing
+description: Two of my drawings # Add post description (optional)
+tag: [Drawing, Imagination]
+---
+Drawing has always come naturally to me.  Naturally, humans and dogs are my favorite subjects.  Here are two examples of my work.  Both are pencil and charcoal.
+
+<div class="post_image_addl">
+    <img src="/assets/img/Drawing-Winston.png" alt="Hand-drawn picture of my dog">
+</div>

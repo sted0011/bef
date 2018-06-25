@@ -8,11 +8,11 @@ type: Web Design + Logo + Branding
 description: Logo and Branding Project for Healthcare Startup # Add post description (optional)
 tag: [Logo, Website, Branding]
 ---
-HealthEngine, a Chicago-based tech startup, needed top-to-toe logo refresh and branding. My engagement with HealthEngine started with my proposed logo redesign. Leadership sought a straightforward, bold design that translated both to digital and print. After flushing out several symbol associations and font arrangements with the key decisionmakers, my proposal beat out several competitive designs and lead to me taking a deeper dive into the company's digital personality and branding.
+HealthEngine, a Chicago-based tech startup, needed top-to-toe logo refresh and branding. My engagement with HealthEngine started with my proposed logo redesign. Leadership sought a straightforward, bold design that translated both to digital and print. After flushing out several symbol associations and font arrangements with the key decision makers, my proposal beat out several competitive designs and lead to me taking a deeper dive into the company's digital personality and branding.
 
 On the logo: The design combines the letters 'h' and 'e' with imagery of a gear -- with a wink to a steam engine -- to convey the brand's strength of purpose. The bold, straight lines of the sans serif 'h' keep the logo modern, while the light gradient resonating from the 'e' suggest the company's purpose: to shine a light on healthcare pricing.
 
-I created a multiuse online and print style guide for the logo, and implemented the logo on business cards and letterhead designs.
+I created a multi use online and print style guide for the logo, and implemented the logo on business cards and letterhead designs.
 
 On the brand: To build out the company's brand and identity, I designed a suite of marketing materials for the sales team. The package included one-page informational sheets, magnets, small cards, and postcards. I unified the suite with similar background designs and used the company colors and complementary messaging throughout. The materials were crafted using a combination of Adobe Illustrator, Photoshop, and InDesign. 
 
