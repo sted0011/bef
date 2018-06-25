@@ -12,4 +12,4 @@ Meet Winston, the lovable Portuguese Water Dog.
 
 Pet owners unify with the special knowledge of what our furry companions bring to our lives: responsibility, reward, and moments of pure joy.  Pets inspire us, love us, and challenge us to live life in the moment.
 
-Winston, a Portuguese Water Dog, always inspired me to create. I created doodles, drawings, and illustrations in his likeness as he was always by my side when I paused for creative time. Here is both a digital portrait of Winston created in Adobe Illustrator. The likeness conveys his soft, wavy fur, delightful (slobbery) smile, and his lively, playful eyes.
+Winston, a Portuguese Water Dog, always inspired me to create. I created doodles, drawings, and illustrations in his likeness as he was always by my side when I paused for creative time. Here is a digital portrait of Winston created in Adobe Illustrator. The likeness conveys his soft, wavy fur, delightful (slobbery) smile, and his lively, playful eyes.
