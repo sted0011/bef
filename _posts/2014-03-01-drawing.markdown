@@ -3,7 +3,7 @@ layout: post
 title: "Drawing from Life"
 img: Drawing-Ballerina.png # Add image post (optional)
 imgCard: Drawing-Ballerina-01.png 
-date: 2017-03-01 12:00:00 
+date: 2014-03-01 12:00:00 
 type: Drawing
 description: Two of my drawings # Add post description (optional)
 tag: [Drawing, Imagination]
