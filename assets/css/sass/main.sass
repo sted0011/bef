@@ -26,11 +26,16 @@ blockquote
   font-style: italic
   border-left: 3px solid $border_red
   padding-left: 2rem
-  margin: 0 0 1.75rem
+  margin: 0 0 1.75rem 10%
   color: $dark_light
+  max-width: 550px
   p
     color: $dark_light
     font-size: 1.2rem
+  cite::before 
+    content: ""
+    height: 20px
+    display: block
 
 ::-webkit-input-placeholder
   color: $white
