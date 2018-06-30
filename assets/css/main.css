@@ -2393,7 +2393,8 @@ cite {
     margin: 0 0.5rem 0.5rem 0; }
 
   .contact .form_bgimage {
-    top: 80%; }
+    top: 80%;
+    padding-top: 50px; }
 
   .container_contact {
     padding-right: 0rem; }
