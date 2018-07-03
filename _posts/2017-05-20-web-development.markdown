@@ -8,8 +8,8 @@ type: Web Development + Web Design
 description: I know HTML, CSS, and other stuff # Add post description (optional)
 tag: [Web Development, Web Design, Marketing]
 ---
-I am a designer who can digitally implement designs. I work regularly in HTML/CSS and SCSS and pay close attention to responsiveness, so my implementations will look good at scale. I built this portfolio site using Jekyll, but I work regularly within WordPess as well. In both instances I use GitHub to make updates to the sites.
+I am a designer who can digitally implement designs. I work regularly in HTML/CSS and SCSS and pay close attention to responsiveness. I built this portfolio site using Jekyll, but I work regularly within WordPess and use GitHub to make updates.
 
-I also build and tailor email templates, which often requires inline styling (I know: eek!). For this work, I am proficient with MailChimp, Microsoft Dynamics 365, and Marketo design tools.
+Beyond websites, I can build and tailor email templates, often delivering them through MailChimp, Microsoft Dynamics 365, and Marketo design tools.
 
 > Digital design is like painting, except the paint never dries. <cite>― Neville Brody</cite>
