@@ -12,5 +12,4 @@ If you need a designer who can implement designs online, I have you covered. I w
 
 The other way that I use these skills is to build and tailor email templates, which often requires inline styling (I know: eek!).  For this work, I am proficient with MailChimp, Microsoft Dynamics 365, and Marketo design tools.
 
-<br/>
 > Digital design is like painting, except the paint never dries. <cite>― Neville Brody</cite>
