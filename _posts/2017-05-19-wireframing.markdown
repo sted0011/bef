@@ -8,7 +8,7 @@ type: Wireframing + Web Design
 description: I can work with wireframes # Add post description (optional)
 tag: [Web Development, Web Design, Wireframing]
 ---
-For a glimpse inside of my development process: here is a plan for a refresh of an existing website.  I culminated my ideas for how the site can better accomplish its goals into several rough sketches detailing how to reorder and reshape the information in a logic pathway in order to better serve visitors.  Then, I turned the best of those ideas into wireframes of the pages.  With those wireframes, I mapped out a user flow throughout the site, and ulimately derived a mockup of the new site.
+For a glimpse inside of my development process: here is a plan for a refresh of an existing website. I brought together several ideas for how the site could better accomplish its goals into several rough sketches.  Primarily I wanted to reorder and reshape the information in a logical path in order to better serve visitors as they learned about the product. I turned the best of those ideas into wireframes of the pages. With those wireframes, I mapped out a user flow throughout the site, and ultimately derived a mockup of the new site to show how everything would come together in a tangible way.
 <div class="post_image_addl">
     <img src="/assets/img/WebpageEvolution.gif" alt="A sketch turning into a wireframe turning into a mockup">
 </div>
