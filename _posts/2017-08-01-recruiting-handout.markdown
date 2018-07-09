@@ -8,7 +8,6 @@ type: Graphic Design + Print
 description: Recruiting Handout for Trading Technologies # Add post description (optional)
 tag: [Design, Innovate, Differentiate]
 ---
-
 This bold, angular recruiting handout sets Trading Technologies apart.  The initial folded square unfolds with two triangular flaps into a polygon—-shapes that reflect the angular logo and brand designs.  The handout's other on-brand visuals include overlapping linear rectangles set at a 45-degree angle; a full-color, moodier photograph; and macro views of the software product.
 
 <div class="post_image_addl">
