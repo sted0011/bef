@@ -1685,6 +1685,9 @@ cite {
 .cf::after {
   clear: both; }
 
+.intro-p {
+  color: #e6e6e6; }
+
 .main_header {
   padding: 1.25rem 2rem;
   display: flex;
