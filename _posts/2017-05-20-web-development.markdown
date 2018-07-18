@@ -12,4 +12,6 @@ I am a designer who can digitally implement designs. I work regularly in HTML/CS
 
 Beyond websites, I can build and tailor email templates, often delivering them through MailChimp, Microsoft Dynamics 365, and Marketo.
 
+I'm also working in Sketch and Invision on personal app design and prototyping projects.
+
 > Digital design is like painting, except the paint never dries. <cite>― Neville Brody</cite>

@@ -8,7 +8,7 @@ type: Animation
 description: The Essential Guide to Animation # Add post description (optional)
 tag: [Animation, Montage, Whimsical]
 ---
-Here is a highlight reel of some of my quick character animations.  Unified under the narrative of a how-to-animate video, this fast-paced visual collage showcases straight-forward animation techniques and abbreviated storytelling arcs, all aimed at getting you smiling. 
+Here is a highlight reel of quick character animations that I brought to life from conception to creation.  Unified under the narrative of a how-to-animate video, this fast-paced visual collage showcases straight-forward animation techniques and abbreviated storytelling arcs, all aimed at getting you smiling. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/270125816?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br/>

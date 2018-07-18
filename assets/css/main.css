@@ -2134,7 +2134,7 @@ cite {
   background-repeat: no-repeat; }
   .about .author {
     border-radius: 0rem;
-    margin-bottom: 1rem;
+    margin-bottom: 5rem;
     border: solid 1px #e6f4f6;
     box-shadow: 3px 3px 20px #bbbbbb;
     padding-left: 15px;
@@ -2159,6 +2159,7 @@ cite {
       margin: 0;
       border: none; }
       .about .about_social .social_footer a {
+        margin-bottom: 50px;
         font-size: 1rem;
         color: #262626;
         background-color: #ffffff;
