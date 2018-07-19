@@ -1686,7 +1686,8 @@ cite {
   clear: both; }
 
 .intro-p {
-  color: #e6e6e6; }
+  text-align: center;
+  color: #6e6e6e; }
 
 .main_header {
   padding: 1.25rem 2rem;
@@ -1730,7 +1731,8 @@ cite {
       margin: 0 auto 2rem auto;
       line-height: 2.5rem;
       font-style: italic;
-      background: #1d8487; }
+      background: #1d8487;
+      display: none; }
 
 .chapters {
   padding: 2rem 0; }
@@ -1741,7 +1743,9 @@ cite {
     margin: 0 0.5% 1% 0.5%;
     overflow: hidden;
     transition: transform 0.4s;
-    box-shadow: 3px 3px 25px #bbbbbb; }
+    box-shadow: 3px 3px 25px #bbbbbb;
+    background-color: #1d8487;
+    z-index: 0; }
     .chapters .chapter a {
       text-decoration: none; }
     .chapters .chapter img {
@@ -1749,12 +1753,21 @@ cite {
       vertical-align: middle;
       transition: all 0.4s; }
       .chapters .chapter img:hover {
-        transform: scale(1.5); }
+        transform: scale(1.5);
+        opacity: 0;
+        z-index: -5;
+        transition: all 0.4s; }
   .chapters .chapter_inner {
+    z-index: -1;
     position: absolute;
-    bottom: 10%;
-    display: none; }
-    .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
+    display: block;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding-top: 14%; }
+    .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_type, .chapters .chapter_inner .chapter_title {
       color: #ffffff; }
     .chapters .chapter_inner .chapter_number {
       display: none;
@@ -1766,8 +1779,16 @@ cite {
         display: block;
         width: 40px;
         margin-top: 0.3rem;
-        border-top: 3px solid #c25b6c;
         display: none; }
+    .chapters .chapter_inner .chapter_type {
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      margin: 0; }
+      .chapters .chapter_inner .chapter_type::after {
+        content: "";
+        display: block;
+        width: 40px;
+        margin-top: 0.3rem; }
     .chapters .chapter_inner .chapter_title {
       font-size: 1.25rem;
       font-weight: 400;
@@ -2271,8 +2292,8 @@ cite {
   .chapters {
     padding: 2rem 0; }
     .chapters .chapter {
-      width: 49%;
-      margin: 0 0.5% 1% 0.5%; } }
+      width: 48%;
+      margin: 0 1% 2% 1%; } }
 @media only screen and (max-width: 768px) {
   #banner .content {
     padding: 7rem 0; }
@@ -2284,12 +2305,29 @@ cite {
       line-height: 2rem;
       font-style: italic; }
 
-  .chapters .chapter_inner .chapter_number {
-    font-size: 0.7rem;
-    margin: 0 0 0.5rem 0; }
-  .chapters .chapter_inner .chapter_title {
-    font-size: 1.35rem;
-    margin: 0 0 0.3rem 0; }
+  .chapters .chapter img {
+    padding-top: 25px; }
+  .chapters .chapter_inner {
+    z-index: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: block;
+    padding: 3px 10px;
+    text-align: left;
+    text-align: center; }
+    .chapters .chapter_inner .chapter_number {
+      font-size: 0.7rem;
+      margin: 0 0 0.5rem 0; }
+    .chapters .chapter_inner .chapter_type {
+      font-size: 0.7rem;
+      margin: -3px -10px 0 -10px;
+      text-align: center;
+      background: #1d8487; }
+    .chapters .chapter_inner .chapter_title {
+      font-size: 1.35rem;
+      margin: 0 0 0.3rem 0;
+      display: none; }
 
   .pagination {
     padding: 2rem 0 6rem; }
@@ -2347,8 +2385,8 @@ cite {
   .chapters {
     padding: 2rem 0; }
     .chapters .chapter {
-      width: 99%;
-      margin: 0 0.5% 2% 0.5%; }
+      width: 98%;
+      margin: 0 1% 5% 1%; }
 
   .container_contact {
     width: 100%;

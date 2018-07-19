@@ -4,8 +4,8 @@
   .chapters
     padding: 2rem 0
     .chapter
-      width: 49%
-      margin: 0 0.5% 1% 0.5%
+      width: 48%
+      margin: 0 1% 2% 1%
 
 @media only screen and (max-width : 768px)
   #banner
@@ -20,14 +20,30 @@
         font-style: italic
 
   .chapters
+    .chapter 
+      img
+        padding-top: 25px
     .chapter_inner
+      z-index: 0
+      position: absolute
+      bottom: 0
+      left: 0
+      display: block
+      padding: 3px 10px
+      text-align: left
+      text-align: center
       .chapter_number
         font-size: 0.7rem
         margin: 0 0 0.5rem 0
-
+      .chapter_type
+        font-size: 0.7rem
+        margin: -3px -10px 0 -10px
+        text-align: center
+        background: $highlight
       .chapter_title
         font-size: 1.35rem
         margin: 0 0 0.3rem 0
+        display: none
 
   .pagination
     padding: 2rem 0 6rem
@@ -90,8 +106,8 @@
   .chapters
     padding: 2rem 0
     .chapter
-      width: 99%
-      margin: 0 0.5% 2% 0.5%
+      width: 98%
+      margin: 0 1% 5% 1%
   .container_contact
     width: 100%
     padding-right: 12rem

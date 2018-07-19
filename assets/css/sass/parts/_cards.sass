@@ -10,6 +10,8 @@
     overflow: hidden
     transition: transform 0.4s
     box-shadow: 3px 3px 25px $shadow
+    background-color: $highlight
+    z-index: 0
     a
       text-decoration: none
     img
@@ -18,14 +20,23 @@
       transition: all 0.4s
       &:hover
         transform: scale(1.5)
+        opacity: 0
+        z-index: -5
+        transition: all 0.4s
 
   .chapter_inner 
+    z-index: -1
     position: absolute
-    bottom: 10%
-    display: none
-    .chapter_number, .chapter_title
+    display: block
+    bottom: 0
+    top: 0
+    left: 0
+    right: 0
+    text-align: center
+    padding-top: 14%
+    .chapter_number, .chapter_type, .chapter_title
       color: $white
-    .chapter_number
+    .chapter_number,
       display: none
       font-size: 0.9rem
       text-transform: uppercase
@@ -35,9 +46,17 @@
         display: block
         width: 40px
         margin-top: 0.3rem
-        border-top: 3px solid $border_red
         display: none
-
+    .chapter_type,
+      font-size: 0.9rem
+      text-transform: uppercase
+      margin: 0
+      &::after
+        content: ""
+        display: block
+        width: 40px
+        margin-top: 0.3rem
+    
     .chapter_title
       font-size: 1.25rem
       font-weight: 400
