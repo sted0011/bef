@@ -2,7 +2,7 @@
 layout: post
 title: "Dogs Need Exercise Too"
 img: Bark_Break.png # Add image post (optional)
-imgCard: Bark_Break-01.png
+imgCard: Bark_Break_01.png
 date: 2018-07-23 12:00:00 
 type: App Design + Prototyping
 description: On-demand dog walks and play breaks # Add post description (optional)
@@ -15,4 +15,5 @@ My vision for the beta version is to guide users through a few key actions to sc
 <div class="post_image_addl">
     <img src="/assets/img/Bark_Break_Elements.png" alt="Elements of the Bark Break brand">
 </div>
+<br/>
 >The details are not the details. They make the design. <cite>- Charles Eames</cite>
