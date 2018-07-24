@@ -1745,7 +1745,9 @@ cite {
     transition: transform 0.4s;
     box-shadow: 3px 3px 25px #bbbbbb;
     background-color: #1d8487;
-    z-index: 0; }
+    z-index: 0;
+    /* transform: scale(1.5) */
+    /*  transition: all 0.4s */ }
     .chapters .chapter a {
       text-decoration: none; }
     .chapters .chapter img {
@@ -1753,10 +1755,8 @@ cite {
       vertical-align: middle;
       transition: all 0.4s; }
       .chapters .chapter img:hover {
-        transform: scale(1.5);
         opacity: 0;
-        z-index: -5;
-        transition: all 0.4s; }
+        z-index: -5; }
   .chapters .chapter_inner {
     z-index: -1;
     position: absolute;
