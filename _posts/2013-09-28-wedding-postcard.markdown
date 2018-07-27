@@ -12,4 +12,9 @@ This postcard is part of a set of six postcards I designed as an alternative to 
 
 The postcards were designed in Adobe Photoshop and printed on shiny card stock. 
 
+<div class="post_image_addl">
+    <img src="/assets/img/Postcard_Full.png" alt="Image of Postcards on a rack">
+</div>
+
+<br/>
 > Will you give me yourself? will you come travel with me? Shall we stick by each other as long as we live? <cite>- Walt Whitman</cite>
