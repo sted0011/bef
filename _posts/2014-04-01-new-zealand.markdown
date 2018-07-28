@@ -15,6 +15,9 @@ The map is the cover image for a multi-page informal travel guide styled as a ha
 <div class="post_image_addl">
     <img src="/assets/img/NewZealand-Book.png" alt="Image of New Zealand Map Illustration and Sample Book Page">
 </div>
+<div class="post_image_addl">
+    <img src="/assets/img/NewZealand-Color.png" alt="Image of Postcards on a rack">
+</div>
 
 <br/>
 > Isn't this how every graphic designer plans a vacation? <cite>- Me</cite>

@@ -15,9 +15,6 @@ The postcards were designed in Adobe Photoshop and printed on shiny card stock.
 <div class="post_image_addl">
     <img src="/assets/img/Postcard_Full.png" alt="Image of Postcards on a rack">
 </div>
-<div class="post_image_addl">
-    <img src="/assets/img/Postcard_Color.png" alt="Image of Postcards on a rack">
-</div>
 
 <br/>
 > Will you give me yourself? will you come travel with me? Shall we stick by each other as long as we live? <cite>- Walt Whitman</cite>
