@@ -11,3 +11,10 @@ tag: [Illustration, Joy, Just for Fun]
 Meet Winston, the lovable Portuguese Water Dog. 
 
 This is a digital portrait of Winston was created in Adobe Illustrator. The likeness conveys his soft, wavy fur, delightful (slobbery) smile, and his lively, playful eyes.
+
+<div class="post_image_addl">
+    <img src="/assets/img/Winston-Full.png" alt="Image of Winston Illustration on a Card">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Winston-Colors.png" alt="Color Palette for Winston Illustrationk">
+</div>
