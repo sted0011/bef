@@ -13,3 +13,6 @@ From conception to paper selection, this project was under my direction.  I crea
 <div class="post_image_addl">
     <img src="/assets/img/Recruiting_Handout.gif" alt="Showing the Handout Layout and Unfolding Process">
 </div>
+<div class="post_image_addl">
+    <img src="/assets/img/Recruiting_Handout-Colors.png" alt="Color palette for the handout">
+</div>

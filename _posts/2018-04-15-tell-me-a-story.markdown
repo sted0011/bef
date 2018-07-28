@@ -16,5 +16,8 @@ Here you see my process behind my animations as I present the character and colo
 <div class="post_image_addl">
     <img src="/assets/img/Storyboard-B.png" alt="Storyline Exploration for an Animation Storyboard">
 </div>
+<div class="post_image_addl">
+    <img src="/assets/img/Storyboard-Colors.gif" alt="Color Palette and Text Selection for Animation Storyboard">
+</div>
 <br/>
 > There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.  <cite>- Douglas H. Everett</cite>
