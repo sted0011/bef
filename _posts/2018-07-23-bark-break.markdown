@@ -9,7 +9,7 @@ description: On-demand dog walks and play breaks # Add post description (optiona
 tag: [Design, Branding, Prototype]
 ---
 <b>For: Personal Project</b><br/>
-<b>Role: Art Direction + Design / Solo Project</b>
+<b>Role: Art Direction + Design</b>
 
 My current side project is a dog-walking app.  I’m through the research, conception, and branding phases, and I’m onto the UI element design and mockup portions of project.  I’m building out the screens in Sketch, and I will prototype in InVision where I have a project board for the app developed.
 

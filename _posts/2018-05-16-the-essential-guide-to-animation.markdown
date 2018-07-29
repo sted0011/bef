@@ -9,7 +9,7 @@ description: The Essential Guide to Animation # Add post description (optional)
 tag: [Animation, Montage, Whimsical]
 ---
 <b>For: Personal Project (compiling animations originally created for Trading Technologies)</b><br/>
-<b>Role: Design / Solo Project</b>
+<b>Role: Design</b>
 
 Here is a highlight reel of quick character animations that I brought to life from conception to creation.  Unified under the narrative of a how-to-animate video, this fast-paced visual collage showcases straight-forward animation techniques and abbreviated storytelling arcs, all aimed at getting you smiling. 
 
