@@ -10,6 +10,8 @@ tag: [Video Editing, Post-Production, Storytelling]
 ---
 I have experience editing together music, motion, and still photography in Premiere Pro. Take a quick peek at <a href="https://vimeo.com/276660710" target="_blank">one of my video editing projects</a> (ping me for the password).
 
+<b>Role: Design / Group Project</b>
+
 Beyond video editing, I've done some post-production work as well.  In the humorous spoof video C.A.R.L., I collaborated with a four-person team to help give life to a drone despite the limitations of navigating a drone indoors.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal necessary to bring the drone alive.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
 
 <div class="post_image_addl">

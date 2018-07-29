@@ -8,6 +8,8 @@ type: Wireframing + Web Design
 description: I can work with wireframes # Add post description (optional)
 tag: [Web Development, Web Design, Wireframing]
 ---
+<b>Role: Design Process / Solo Project</b>
+
 For a glimpse inside of my development process: here is a visual plan for the refresh of an informational website. 
 
 I started with sketching out several ideas for how the site could better accomplish its goals.  Primarily, I wanted to reorder and reshape the information into a logical path that would reflect how visitors learn about the product. 
