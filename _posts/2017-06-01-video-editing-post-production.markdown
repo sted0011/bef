@@ -8,7 +8,7 @@ type: Video Post-Production
 description: Video post-production work # Add post description (optional)
 tag: [Video, Post-Production, Storytelling]
 ---
-<b>For: Trading Technologies</b>
+<b>For: Trading Technologies</b><br/>
 <b>Role: Design / Group Project</b>
 
 In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I collaborated with a four-person team to give life to a drone.  Because we ran into limitations of navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal necessary to bring the drone alive.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 

@@ -8,7 +8,7 @@ type: Digital Illustration
 description: Meet my Portuguese Water Dog, Winston # Add post description (optional)
 tag: [Illustration, Joy, Just for Fun]
 ---
-<b>For: Personal Project</b>
+<b>For: Personal Project</b><br/>
 <b>Role: Design / Solo Project</b>
 
 Meet Winston, the lovable Portuguese Water Dog. 

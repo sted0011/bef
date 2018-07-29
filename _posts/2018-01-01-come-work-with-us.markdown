@@ -8,7 +8,7 @@ type: Video Production + Animation
 description: Recruiting Video for Trading Technologies # Add post description (optional)
 tag: [Producer, Animation, Award Winner]
 ---
-<b>For: Trading Technologies</b>
+<b>For: Trading Technologies</b><br/>
 <b>Role: Producer + Design / Group Project</b>
 
 This recruiting video I collaborated on blends a cohesive narrative, symmetrical shots, a washed-out color palette, upbeat 60s-inspired music, and situational silliness to show off, not only how we work together as one company, but how we make it fun too.  This award-winning video is the culmination of hours of planning and team effort.  On our in-house six-person team, I was the producer and animator.  As producer, I kept the team on track, organized and scheduled the shots/props/spaces, identified the musical track, participated in the shoots, and provided feedback during the editing process.  I also supplied the animations for the countdown and the two language clouds.
