@@ -8,6 +8,7 @@ type: Graphic Design + Print
 description: Personal Postcard # Add post description (optional)
 tag: [Collage, Wedding, Joy]
 ---
+<b>For: Personal Project</b>
 <b>Role: Art Direction + Design / Solo Project</b>
 
 This postcard is part of a set of six postcards I designed as an alternative to a wedding guestbook. This full-color two-sided design draws on the theme of travel. The primary image on the front side, a map, identifies significant locations and how they relate geographically to the wedding's location. The silhouette of a tree was from a photograph taken at the ceremony site, and a text box and arrows help underscore the geographic significance. These elements are all rotated slightly, as if they were pasted in a scrapbook, giving the card a whimsical, folk art feel.  Although the main purpose of the reverse side was to provide blank space to write, I added personalized touches in the form of a cancelation stamp with the ceremony's location and date, and a postage stamp made from an engagement photo.

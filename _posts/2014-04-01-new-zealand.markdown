@@ -8,6 +8,7 @@ type: Illustration + Print + Layout
 description: Travel Guide to New Zealand's North Island # Add post description (optional)
 tag: [Collage, Whimsical, Just for Fun]
 ---
+<b>For: Personal Project</b>
 <b>Role: Design / Solo Project</b>
 
 This illustrated map visually showcases the transportation methods, days, and driving durations for a road trip in New Zealand. Taking a whimsical approach, I exhibited the routes and forms of transportation that the trip would entail via a plane, a campervan, a boat, and a train. The distance key shows the driving duration between the cities. I also included sleep "bubbles" representing the duration of a stay, and depicted the types of animals and things to see on the North Island.  

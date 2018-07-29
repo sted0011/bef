@@ -8,6 +8,7 @@ type: Web Design + Logo + Branding
 description: Logo and Branding Project for Healthcare Startup # Add post description (optional)
 tag: [Logo, Website, Branding]
 ---
+<b>For: HealthEngine</b>
 <b>Role: Creative Direction + Design / Solo Projects</b>
 
 HealthEngine, a Chicago-based tech startup, needed top-to-toe logo refresh and branding. My engagement with HealthEngine started with my proposed logo redesign. Leadership sought a straightforward, bold design that translated both to digital and print. My proposal beat out several competitive designs and lead to me taking a deeper dive into the company's digital personality and branding.

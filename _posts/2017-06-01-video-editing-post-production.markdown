@@ -4,15 +4,14 @@ title: "Moving Pictures"
 img: VideoEditing.png # Add image post (optional)
 imgCard: VideoEditing-01.png
 date: 2017-06-01 12:00:00 
-type: Video Editing + Post-Production
-description: Video editing and post-production work # Add post description (optional)
-tag: [Video Editing, Post-Production, Storytelling]
+type: Video Post-Production
+description: Video post-production work # Add post description (optional)
+tag: [Video, Post-Production, Storytelling]
 ---
-I have experience editing together music, motion, and still photography in Premiere Pro. Take a quick peek at <a href="https://vimeo.com/276660710" target="_blank">one of my video editing projects</a> (ping me for the password).
-
+<b>For: Trading Technologies</b>
 <b>Role: Design / Group Project</b>
 
-Beyond video editing, I've done some post-production work as well.  In the humorous spoof video C.A.R.L., I collaborated with a four-person team to help give life to a drone despite the limitations of navigating a drone indoors.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal necessary to bring the drone alive.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
+In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I collaborated with a four-person team to give life to a drone.  Because we ran into limitations of navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal necessary to bring the drone alive.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
 
 <div class="post_image_addl">
     <img src="/assets/img/Post-Production.png" alt="Showing Post-Production Wire Removal">

@@ -8,6 +8,7 @@ type: Illustration
 description: Graphic Illustration of Faces # Add post description (optional)
 tag: [Illustration, Whimsical, Just for Fun]
 ---
+<b>For: Trading Technologies</b>
 <b>Role: Design / Solo Project</b>
 
 This design is a concept for an annual summer intern t-shirt.  Set the corporate blue color palette, the themes of the hand-drawn illustration are collaboration and unity.  I vectorized my ink drawing, and then added a pop of color with Adobe Illustrator.

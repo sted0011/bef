@@ -8,6 +8,7 @@ type: Wireframing + Web Design
 description: I can work with wireframes # Add post description (optional)
 tag: [Web Development, Web Design, Wireframing]
 ---
+<b>For: Trading Technologies</b>
 <b>Role: Design Process / Solo Project</b>
 
 For a glimpse inside of my development process: here is a visual plan for the refresh of an informational website. 
