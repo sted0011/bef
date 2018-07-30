@@ -1976,7 +1976,8 @@ cite {
   .post .entry_content {
     padding-bottom: 2rem; }
     .post .entry_content .post_image_addl img {
-      width: 100%; }
+      width: 100%;
+      margin-top: -2px; }
     .post .entry_content a, .post .entry_content a:link, .post .entry_content a:visited {
       color: #1d8487;
       text-decoration: none; }
@@ -2057,7 +2058,7 @@ cite {
         opacity: 0.9; }
 
 .recent_box {
-  background-color: #000000;
+  background-color: #262626;
   padding: 2rem 0;
   margin-bottom: 1.5rem;
   box-shadow: 3px 3px 20px #bbbbbb;
