@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving Pictures"
-img: VideoEditing.png # Add image post (optional)
+img: Video-CARL.jpg # Add image post (optional)
 imgCard: VideoEditing-01.png
 date: 2017-06-01 12:00:00 
 type: Video Post-Production
@@ -11,7 +11,9 @@ tag: [Video, Post-Production, Storytelling]
 <b>For: Trading Technologies</b><br/>
 <b>Role: Design / Group Project</b>
 
-In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I collaborated with a four-person team to give life to a drone.  Because we ran into limitations of navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal necessary to bring the drone alive.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
+In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I collaborated with a four-person team to give life to a drone.  Because we ran into limitations with navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
+
+Also look for my quick text animation explaining the acronym C.A.R.L.
 
 <div class="post_image_addl">
     <img src="/assets/img/Post-Production.png" alt="Showing Post-Production Wire Removal">
