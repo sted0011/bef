@@ -16,6 +16,9 @@ This illustrated map visually showcases the transportation methods, days, and dr
 The map is the cover image for a multi-page informal travel guide styled as a handwritten travel journal.  The book was setup for print using Adobe InDesign.  
 
 <div class="post_image_addl">
+    <img src="/assets/img/NewZealand-Spreads.png" alt="Print Spreads">
+</div>
+<div class="post_image_addl">
     <img src="/assets/img/NewZealand-Full.png" alt="Image of New Zealand Map Illustration and Sample Book Page">
 </div>
 <div class="post_image_addl">
