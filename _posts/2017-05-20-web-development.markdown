@@ -12,9 +12,9 @@ I am a designer who can digitally implement designs. I work regularly in HTML/CS
 
 Beyond websites, I can build and tailor email templates, often delivering them through MailChimp, Microsoft Dynamics 365, and Marketo.
 
-<hr/><br/>
+<hr/>
 
-<b>For: Trading Technologies</b><br/>
+<b><br/>For: Trading Technologies</b><br/>
 <b>Role: Digital Implementation / Group Project</b>
 
 Here are examples of landing pages that I coded for Trading Technologies.  In both cases I was provided a desktop design to code, and made decisions as to how the page would respond down.  The first example was coded in HTML/CSS, and the second was built by tailoring a Wordpress theme.
