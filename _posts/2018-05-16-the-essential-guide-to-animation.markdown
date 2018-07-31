@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Time to Come Alive"
-img: The_Essential_Guide_to_Animation.png # Add image post (optional)
-imgCard: The_Essential_Guide_to_Animation-01.png
+img: The_Animation-Leprechaun.png # Add image post (optional)
+imgCard: The_Animation-Leprechaun-Card.png
 date: 2018-05-16 12:00:00 
 type: Animation
 description: The Essential Guide to Animation # Add post description (optional)
 tag: [Animation, Montage, Whimsical]
 ---
 <b>For: Personal Project (compiling animations originally created for Trading Technologies)</b><br/>
-<b>Role: Design</b>
+<b>Role: Design + Animation</b>
 
 Here is a highlight reel of quick character animations that I brought to life from conception to creation.  Unified under the narrative of a how-to-animate video, this fast-paced visual collage showcases straight-forward animation techniques and abbreviated storytelling arcs, all aimed at getting you smiling. 
 
@@ -17,7 +17,7 @@ Here is a highlight reel of quick character animations that I brought to life fr
 
 <br/>
 <div class="post_image_addl">
-    <img src="/assets/img/The_Animation-Leprechaun.png" alt="Still of Leprechaun from the Animation">
+    <img src="/assets/img/The_Essential_Guide_to_Animation.png" alt="Still of Two Students Studying">
 </div>
 <div class="post_image_addl">
     <img src="/assets/img/The_Animation-Robot.png" alt="Still of Robot from the Animation">
