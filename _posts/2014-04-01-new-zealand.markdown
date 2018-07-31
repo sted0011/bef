@@ -4,7 +4,7 @@ title: "Island Adventure Travel Guide"
 img: NewZealand.png # Add image post (optional)
 imgCard: NewZealand-01.png 
 date: 2014-04-01 12:00:00 
-type: Digital Illustration + Print + Layout
+type: Illustration + Print + Layout
 description: Travel Guide to New Zealand's North Island # Add post description (optional)
 tag: [Collage, Whimsical, Just for Fun]
 ---

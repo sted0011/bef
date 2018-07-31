@@ -4,7 +4,7 @@ title: "Woof!"
 img: Winston.png # Add image post (optional)
 imgCard: Winston-01.png 
 date: 2014-08-24 12:00:00 
-type: Digital Illustration
+type: Illustration
 description: Meet my Portuguese Water Dog, Winston # Add post description (optional)
 tag: [Illustration, Joy, Just for Fun]
 ---
