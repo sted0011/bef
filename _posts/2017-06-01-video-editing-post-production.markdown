@@ -13,7 +13,7 @@ tag: [Video, Post-Production, Storytelling]
 
 In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I collaborated on a four-person team to give life to a drone.  Because we ran into limitations with navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and led the post-production string removal.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
 
-Also look for my quick text animation explaining the acronym C.A.R.L.
+Also look for my quick motion graphic explaining the acronym C.A.R.L.
 
 <div class="post_image_addl">
     <img src="/assets/img/Post-Production-BeforeAfter.png" alt="Showing Post-Production Wire Removal">
