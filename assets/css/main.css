@@ -1893,7 +1893,8 @@ cite {
     margin: 0px auto; }
 
 .main_footer {
-  background-color: #000000; }
+  background-color: #ffffff;
+  border-top: 1px solid #ecf7f8; }
 
 .social_footer {
   padding: 3rem 0;
@@ -1904,19 +1905,21 @@ cite {
     display: inline-block;
     margin-left: 0.5rem; }
   .social_footer a {
-    color: #7b7b7b;
+    color: #ffffff;
     display: inline-block;
     padding: 0.5rem 1rem;
     margin: 0.3rem 0;
     text-decoration: none;
     font-size: 1.75rem;
-    background-color: #262626;
+    background-color: #00b0b3;
     transition: all 0.35s ease-in-out;
     border-radius: 32px;
-    width: 125px; }
+    width: 125px;
+    opacity: 0.5; }
     .social_footer a:hover {
       background-color: #1d8487;
-      color: #ffffff; }
+      color: #ffffff;
+      opacity: 0.8; }
 
 .copyright {
   padding: 1rem 0;
@@ -2242,7 +2245,7 @@ cite {
       text-transform: uppercase;
       outline: none;
       border: none;
-      background-color: rgba(0, 0, 0, 0.9);
+      background-color: #8dd7d8;
       -webkit-text-fill-color: #ffffff;
       margin-top: 1.5rem;
       padding: 1rem 3rem;
@@ -2250,8 +2253,9 @@ cite {
       cursor: pointer;
       transition: all 0.3s ease-in-out; }
       .container_contact .form .form_btn:hover {
-        background-color: #262626;
-        color: #525c65; }
+        background-color: #1d8487;
+        color: #ffffff;
+        opacity: 0.8; }
       .container_contact .form .form_btn:active {
         transform: translateY(2px); }
 

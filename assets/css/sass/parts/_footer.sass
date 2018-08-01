@@ -1,7 +1,8 @@
 // - - - - - - - - - - Footer Styles - - - - - - - - - - //
 
 .main_footer
-  background-color: $black
+  background-color: $white
+  border-top: 1px solid #ecf7f8
 .social_footer
   padding: 3rem 0
   list-style: none
@@ -11,19 +12,21 @@
     display: inline-block
     margin-left: 0.5rem
   a
-    color: #7b7b7b
+    color: $white
     display: inline-block
     padding: 0.5rem 1rem
     margin: 0.3rem 0
     text-decoration: none
     font-size: 1.75rem
-    background-color: $dark_gray
+    background-color: $button
     transition: all .35s ease-in-out
     border-radius: 32px
     width: 125px
+    opacity: 0.5
     &:hover
       background-color: $highlight
       color: $white
+      opacity: 0.8
 
 .copyright
   padding: 1rem 0

@@ -11,7 +11,7 @@ tag: [Collage, Wedding, Joy]
 <b>For: Personal Project</b><br/>
 <b>Role: Art Direction + Design</b>
 
-I created a series of postcards as an alternative to a wedding guestbook. Several of the full-color two-sided designs draw on the theme of travel. The primary image on the front side is a map, identifying a significant location, and the supplemental images and text underscore the geographic significance. The elements are all rotated slightly to give the cards a whimsical, folk art feel.  Although the main purpose of the reverse side was to provide blank space to write, I added a cancelation stamp with the ceremony's location and date, and a postage stamp with an engagement photo.
+I created a series of postcards as an alternative to a wedding guestbook. Several of the full-color two-sided designs draw on the theme of travel. The primary image on the front side is a map, identifying a significant location, and the supplemental images and text underscore the geographic significance. The elements are positioned to give the cards a whimsical, folk art feel.  Although the main purpose of the reverse side was to provide blank space to write, I added a cancelation stamp with the ceremony's location and date, and a postage stamp with an engagement photo.
 
 The postcards were designed in Adobe Photoshop and printed on shiny card stock. 
 

@@ -23,6 +23,9 @@ Here is a highlight reel of quick character animations that I brought to life fr
     <img src="/assets/img/The_Animation-Robot.png" alt="Still of Robot from the Animation">
 </div>
 <div class="post_image_addl">
+    <img src="/assets/img/The_Animation-Leprechaun-Clover.png" alt="Still of Leprechaun  Revealed Through Clover from the Animation">
+</div>
+<div class="post_image_addl">
     <img src="/assets/img/The_Essential_Guide_to_Animation-Colors.png" alt="Color Palette and Text Selection for Animation">
 </div>
 <br/>
