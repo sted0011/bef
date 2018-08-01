@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handout to Stand Out"
-img: Recruting-Hanout-Layout.png # Add image post (optional)
+img: Recruting-Handout-Layout.png # Add image post (optional)
 imgCard: Recruiting_Handout-01.png
 date: 2017-08-01 12:00:00
 type: Graphic Design + Print
