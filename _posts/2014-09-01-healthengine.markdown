@@ -6,7 +6,7 @@ imgCard: HealthEngine-01.png
 date: 2014-09-01 12:00:00
 type: Web Design + Logo + Branding
 description: Logo and Branding Project for Healthcare Startup # Add post description (optional)
-tag: [Logo, Web Design, Branding]
+tag: [Logo Design, Web Design, Web Development, Branding]
 ---
 <b>For: HealthEngine</b><br/>
 <b>Role: Creative Direction + Design / Solo Projects</b>
