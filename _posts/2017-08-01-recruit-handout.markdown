@@ -6,7 +6,7 @@ imgCard: Recruiting_Handout-01.png
 date: 2017-08-01 12:00:00
 type: Graphic Design + Print
 description: Recruiting Handout for Trading Technologies # Add post description (optional)
-tag: [Design, Innovate, Differentiate]
+tag: [Art Direction, Design, Print]
 ---
 <b>For: Trading Technologies</b><br/>
 <b>Role: Art Direction + Design / Solo Project</b>

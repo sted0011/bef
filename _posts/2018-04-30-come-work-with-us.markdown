@@ -6,7 +6,7 @@ imgCard: Come_Work_With_Us-01.png
 date: 2018-04-30 12:00:00
 type: Video Production + Motion Graphics
 description: Recruiting Video for Trading Technologies # Add post description (optional)
-tag: [Producer, Motion Graphics, Award Winner]
+tag: [Video, Producer, Motion Graphics]
 ---
 <b>For: Trading Technologies</b><br/>
 <b>Role: Producer + Motion Graphics / Group Project</b>

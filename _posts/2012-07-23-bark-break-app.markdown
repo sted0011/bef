@@ -6,7 +6,7 @@ imgCard: Bark_Break_01.png
 date: 2012-07-23 12:00:00
 type: App Design + Prototyping
 description: On-demand dog walks and play breaks # Add post description (optional)
-tag: [Design, Branding, Prototype]
+tag: [Art Direction, Design, Branding]
 ---
 <b>For: Personal Project</b><br/>
 <b>Role: Art Direction + Design</b>

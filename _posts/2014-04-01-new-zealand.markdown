@@ -6,7 +6,7 @@ imgCard: NewZealand-01.png
 date: 2014-04-01 12:00:00
 type: Illustration + Print + Layout
 description: Travel Guide to New Zealand's North Island # Add post description (optional)
-tag: [Collage, Whimsical, Just for Fun]
+tag: [Design, Print]
 ---
 <b>For: Personal Project</b><br/>
 <b>Role: Design</b>

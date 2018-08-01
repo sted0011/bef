@@ -6,7 +6,7 @@ imgCard: Postcard-01.png
 date: 2013-09-28 12:00:00
 type: Graphic Design + Print
 description: Personal Postcard # Add post description (optional)
-tag: [Collage, Wedding, Joy]
+tag: [Art Direction, Design, Print]
 ---
 <b>For: Personal Project</b><br/>
 <b>Role: Art Direction + Design</b>

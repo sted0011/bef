@@ -6,7 +6,7 @@ imgCard: Post-Production-Card.png
 date: 2017-06-01 12:00:00
 type: Video Post-Production
 description: Video post-production work # Add post description (optional)
-tag: [Video, Post-Production, Storytelling]
+tag: [Video, Motion Graphics]
 ---
 <b>For: Trading Technologies</b><br/>
 <b>Role: Design / Group Project</b>

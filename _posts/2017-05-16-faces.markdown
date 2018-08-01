@@ -6,7 +6,7 @@ imgCard: Faces-01.png
 date: 2017-05-16 12:00:00
 type: Illustration
 description: Graphic Illustration of Faces # Add post description (optional)
-tag: [Illustration, Whimsical, Just for Fun]
+tag: [Illustration]
 ---
 <b>For: Trading Technologies</b><br/>
 <b>Role: Design / Solo Project</b>

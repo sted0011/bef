@@ -6,7 +6,7 @@ imgCard: The_Animation-Leprechaun-Card.png
 date: 2018-05-16 12:00:00
 type: Animation
 description: The Essential Guide to Animation # Add post description (optional)
-tag: [Animation, Montage, Whimsical]
+tag: [Animation, Motion Graphics, Design]
 ---
 <b>For: Personal Project (compiling animations originally created for Trading Technologies)</b><br/>
 <b>Role: Design + Animation</b>
