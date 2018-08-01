@@ -3,7 +3,7 @@ layout: post
 title: "Send me a postcard; Drop me a line"
 img: Postcard_Four.png # Add image post (optional)
 imgCard: Postcard-01.png 
-date: 2013-09-28 12:00:00 
+date: 2013-09-28 12:00:00
 type: Graphic Design + Print
 description: Personal Postcard # Add post description (optional)
 tag: [Collage, Wedding, Joy]

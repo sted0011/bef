@@ -3,7 +3,7 @@ layout: post
 title: "Freeze Frame"
 img: Wireframe.png # Add image post (optional)
 imgCard: Wireframe-01.png
-date: 2017-05-19 12:00:00 
+date: 2017-05-19 12:00:00
 type: Wireframing + Web Design
 description: I can work with wireframes # Add post description (optional)
 tag: [Web Development, Web Design, Wireframing]

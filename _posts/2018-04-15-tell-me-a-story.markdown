@@ -3,7 +3,7 @@ layout: post
 title: "Tell Me a Story"
 img: Storyboard.png # Add image post (optional)
 imgCard: Storyboard-01.png
-date: 2018-04-15 12:00:00 
+date: 2018-04-15 12:00:00
 type: Storyboard
 description: Storyboard Beginnings of an Animation # Add post description (optional)
 tag: [Animation, Storyboard, Illustration]

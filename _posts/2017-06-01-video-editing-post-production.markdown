@@ -3,7 +3,7 @@ layout: post
 title: "Moving Pictures"
 img: Post-Production.png # Add image post (optional)
 imgCard: Post-Production-Card.png 
-date: 2017-06-01 12:00:00 
+date: 2017-06-01 12:00:00
 type: Video Post-Production
 description: Video post-production work # Add post description (optional)
 tag: [Video, Post-Production, Storytelling]

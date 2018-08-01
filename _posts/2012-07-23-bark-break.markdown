@@ -3,7 +3,7 @@ layout: post
 title: "Dogs Need Exercise Too"
 img: Bark_Break.png # Add image post (optional)
 imgCard: Bark_Break_01.png
-date: 2012-07-23 12:00:00 
+date: 2012-07-23 12:00:00
 type: App Design + Prototyping
 description: On-demand dog walks and play breaks # Add post description (optional)
 tag: [Design, Branding, Prototype]
