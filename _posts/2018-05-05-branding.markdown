@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Gold Colored Glasses"
+img: Crypto-Branding.png # Add image post (optional)
+imgCard: Crypto-Branding-01.png 
+date: 2018-05-05 12:00:00
+type: Branding 
+description: Creating an evolved identity for a new product line # Add post description (optional)
+tag: [Branding, Web Design]
+---
+
+<b><br/>For: Trading Technologies</b><br/>
+<b>Role: Branding / Group Project</b>
+
+While Trading Technologies has a distinctive blue logo mark and brand identity for its core business, the company needed a separate, evolved identity for a new product line in cryptocurrencies.  To shape the new identity, I gathered research about the market, distilled our position to four primary pillars, and through design iterations with key players, exemplified those pillars into core visual representations and colors.   
+
+My colleague developed a distinguished logo mark in the new brand color scheme, and I created the logo lockup, as well as the orientation variations.  I also crafted examples of the logo and brand assets in digital and print marketing materials, and prepared assets for use in the product app.
+
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Issue.png" alt="Combining TT with cryptocurrencies">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Lingual.png" alt="Defining cryptocurrencies">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Keywords.png" alt="Distilling down the important key points">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Visual.png" alt="Visually representing the key points">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Colors-Font.png" alt="Visually representing the key points in colors and using company fonts">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding_Logos.png" alt="Presenting the logo in various orientations and colors">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Brochure.png" alt="Envisioning what a brochure would look like">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-LandingPage.png" alt="Envisioning what a landing page would look like">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding-Mobile-Photograph.png" alt="Showing the mockups on mobile devices">
+</div>
+<br/>
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well. <cite>― Jeff Bezos</cite>
