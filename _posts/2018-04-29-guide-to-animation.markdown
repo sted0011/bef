@@ -3,7 +3,7 @@ layout: post
 title: "Time to Come Alive"
 img: The_Animation-Leprechaun.png # Add image post (optional)
 imgCard: The_Animation-Leprechaun-Card.png
-date: 2018-05-16 12:00:00
+date: 2018-04-29 12:00:00
 type: Animation
 description: The Essential Guide to Animation # Add post description (optional)
 tag: [Animation, Motion Graphics, Design]
