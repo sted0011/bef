@@ -10,7 +10,7 @@ tag: [Branding, Web Design]
 ---
 
 <b><br/>For: Trading Technologies</b><br/>
-<b>Role: Branding / Group Project</b>
+<b>Role: Branding + Design / Group Project</b>
 
 While Trading Technologies has a distinctive blue logo mark and brand identity for its core business, the company needed a separate, evolved identity for a new product line in cryptocurrencies.  To shape the new identity, I gathered research about the market, distilled our position to four primary pillars, and through design iterations with key players, exemplified those pillars into core visual representations and colors.   
 
@@ -42,6 +42,9 @@ My colleague developed a distinguished logo mark in the new brand color scheme, 
 </div>
 <div class="post_image_addl">
     <img src="/assets/img/Branding-Mobile-Photograph.png" alt="Showing the mockups on mobile devices">
+</div>
+<div class="post_image_addl">
+    <img src="/assets/img/Branding_Logo_Animation.png" alt="Moving logo">
 </div>
 <br/>
 > A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well. <cite>― Jeff Bezos</cite>
