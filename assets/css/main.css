@@ -1662,7 +1662,8 @@ cite {
   color: #949494; }
 
 .wrapper {
-  width: 1440px;
+  /* width: 1440px */
+  height: 250px;
   max-width: 90%;
   margin: 0 auto; }
 
@@ -1715,7 +1716,7 @@ cite {
 #banner {
   position: relative; }
   #banner .content {
-    padding: 12rem 0 12rem 0; }
+    padding: 5.5rem 0 12rem 0; }
     #banner .content .title, #banner .content .sub_title {
       text-align: center;
       color: #ffffff;
@@ -1735,7 +1736,7 @@ cite {
       display: none; }
 
 .chapters {
-  padding: 2rem 0; }
+  padding: 4rem 0; }
   .chapters .chapter {
     position: relative;
     float: left;
@@ -2304,7 +2305,7 @@ cite {
     padding: 7rem 0; }
     #banner .content .title {
       font-size: 2.5rem;
-      margin: 0 0 1rem 0; }
+      margin: -15px 0 1rem 0; }
     #banner .content .sub_title {
       font-size: 1.35rem;
       line-height: 2rem;
