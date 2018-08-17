@@ -44,7 +44,7 @@ My colleague developed a distinguished logo mark in the new brand color scheme, 
     <img src="/assets/img/Branding-Mobile-Photograph.png" alt="Showing the mockups on mobile devices">
 </div>
 <div class="post_image_addl">
-    <img src="/assets/img/Branding_Logo_Animation.png" alt="Moving logo">
+    <img src="/assets/img/Branding_Logo_Animation.gif" alt="Moving logo">
 </div>
 <br/>
 > A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well. <cite>― Jeff Bezos</cite>
