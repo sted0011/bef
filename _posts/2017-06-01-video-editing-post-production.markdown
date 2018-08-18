@@ -11,7 +11,7 @@ tag: [Video, Motion Graphics]
 <b>For: Trading Technologies</b><br/>
 <b>Role: Design / Group Project</b>
 
-In addition to personal video editing projects, in the humorous spoof video C.A.R.L., I was part of a four-person team who gave life to a drone.  Because we ran into limitations with navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and then led the post-production FX.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
+In addition to personal video editing projects, I have exerience with moving images.  In the humorous spoof video C.A.R.L., I was part of a four-person team who gave life to a drone.  Because we ran into limitations with navigating a drone indoors, we had to recreate the effect of the drone hovering and flying.  I assisted with the planning, prop rigging, and staging, and then led the post-production FX.  The drone hovers, flies, and pops into frame, all without the rigging being seen. 
 
 Also look for my quick motion graphic explaining the acronym C.A.R.L.
 
