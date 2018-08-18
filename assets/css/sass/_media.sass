@@ -93,6 +93,11 @@
         font-size: 0.8rem
       .post_title
         font-size: 1.6rem
+    .entry_content 
+      .post_image_addl 
+        img 
+          width: 109%
+          margin-left: -4.5%
 
   .author
     .author_social
@@ -128,11 +133,20 @@
 @media only screen and (max-width: 550px)
   .post
     header
+      text-align: center
+      .post_description
+        position: initial
       .post_meta
         padding: 0.3rem 1rem
         font-size: 0.5rem
+        width: 100%
       .post_title
         font-size: 1.3rem
+    .entry_content 
+      .post_image_addl 
+        img 
+          width: 100%
+          margin-left: 0
 
   .post_footer
     .post_share
@@ -182,12 +196,23 @@
       padding: 0.3rem 0.8rem
       font-size: 1.10rem
 
+@media only screen and (max-width: 372px)
+  .post 
+    .entry_content 
+      .post_image_addl 
+        img 
+          width: 120%
+          margin-left: -10%
+
 @media only screen and (max-width: 320px)
   .post
     header
+      .post_description
+        position: initial
       .post_meta
         padding: 0.1rem 0.8rem
         font-size: 0.3rem
+        display: none
       .post_title
         padding: 0.8rem
         font-size: 1.2rem
