@@ -8,7 +8,7 @@ type: Social Media
 description: I design for social media delivery # Add post description (optional)
 tag: [Social Media, Design]
 ---
-An integral piece of digital marketing design is social media.  I craft moving and still visuals for social media channels, prepare messaging templates, curate photographic collections, and provide short messaging.  And, to support consistent companywide social media delivery, I have produced one-page visual style guides, including recommendations on filters, tones, and compositions.
+An integral piece of digital marketing design is social media.  I craft moving and still visuals for social media channels, prepare messaging templates, curate photographic collections, and provide short messaging.  To support consistent companywide social media delivery, I have produced one-page visual style guides, including recommendations on filters, tones, and compositions.
 
 <hr/>
 
