@@ -15,7 +15,7 @@ An integral piece of digital marketing design is social media.  I craft moving a
 <b><br/>For: Trading Technologies</b><br/>
 <b>Role: Design / Group Project</b>
 
-The latest project that I am leading is to develop a multi-week, multi-channel marketing and social media plan to promote company design and creative efforts.  This effort includes blog generation, messaging and hashtag selection, still visuals, video clips, and animated GIFs.  It touches Instagram, Vimeo, YouTube, Twitter, Facebook, and other digital outlets, and includes copywriting and visual content generation. Stay tuned to see the outcome of this effort later this year.
+The latest project that I am leading is to develop a multi-week, multi-platform social media plan to promote company design and creative efforts.  This effort includes blog generation, messaging and hashtag selection, still visuals, video clips, and animated GIFs.  It touches Instagram, Vimeo, YouTube, Twitter, Facebook, and other digital outlets, and includes copywriting and visual content generation. Stay tuned to see the outcome of this effort later this year.
 
 Below you can see examples of previous snappy, cheerful animations I produced; on-brand messaging templates I composed; and a selection of focused, engaging photographs I curated into a meaningful and effective social media resources library.  
 
