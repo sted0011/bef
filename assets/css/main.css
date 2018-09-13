@@ -2180,6 +2180,8 @@ cite {
         text-align: left; }
         .about .author .author_info .author_subtitle a {
           color: #1d8487; }
+        .about .author .author_info .author_subtitle .highlight {
+          background-color: #a9d4d8; }
       .about .author .author_info .author_subtitle_heading {
         font-weight: bold;
         text-align: center; }
