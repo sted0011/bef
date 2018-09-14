@@ -9,7 +9,7 @@ description: Global Map for Trading Technologies # Add post description (optiona
 tag: [Data Visualization, Art Direction, Web Development]
 ---
 <b>For: Trading Technologies</b><br/>
-<b>Role: Art Direction + Web Development / Group Project</b>
+<b>Role: Data Visualization + Art Direction + Web Development / Group Project</b>
 
 Making a spreadsheet of data come alive is no easy task.  See how a few numbers on a grid can be transformed into an interactive aid to understanding.  
 
