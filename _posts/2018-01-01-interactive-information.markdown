@@ -4,9 +4,9 @@ title: "Engaging Information"
 img: Information_Global_Map.gif # Add image post (optional)
 imgCard: Information-01.png
 date: 2018-01-01 12:00:00
-type: Art Direction + Web Development
+type: Data Visualization
 description: Global Map for Trading Technologies # Add post description (optional)
-tag: [Art Direction, Web Development]
+tag: [Data Visualization, Art Direction, Web Development]
 ---
 <b>For: Trading Technologies</b><br/>
 <b>Role: Art Direction + Web Development / Group Project</b>
