@@ -17,9 +17,13 @@ I crafted this clean design to increase the usability and engagement of an exist
 
 You can interact with it <a href="https://www.tradingtechnologies.com/infrastructure/global-network/" target="_blank">here</a>.
 
+Before:
 <div class="post_image_addl">
     <img src="/assets/img/Information_Spreadsheet.png" alt="Showing the Spreadsheet and SVG code">
 </div>
+
+<br>
+After:
 <div class="post_image_addl">
     <img src="/assets/img/Information_Global_Map.png" alt="Showing the Map Layout">
 </div>
