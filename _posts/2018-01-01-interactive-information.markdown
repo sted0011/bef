@@ -13,7 +13,7 @@ tag: [Data Visualization, Art Direction, Web Development]
 
 Making a spreadsheet of data come alive is no easy task.  See how a few numbers on a grid can be transformed into an interactive aid to understanding.  
 
-I crafted this clean design to increase the usability and engagement of an existing map of city connections and latency pathways for Trading Technologies' software. On first glance the connections are immediately evident, and with a quick mouseover the latency information comes into focus.  This hide/reveal approach provides the relevant information without overwhelming the viewer or cluttering the map.  The map is a SVG, which was colored and sized using CSS and JS. It is fully responsive and holds true to the brand's colors and fonts.  
+I crafted this clean design to increase the usability and engagement of an existing map of city connections and latency pathways for Trading Technologies' software. On first glance the connections are immediately evident, and with a quick mouseover the latency and exchange information comes into focus.  This hide/reveal approach provides the relevant information without overwhelming the viewer or cluttering the map.  The map is a SVG, which was colored and sized using CSS and JS. It is fully responsive and holds true to the brand's colors and fonts.  
 
 You can interact with it <a href="https://www.tradingtechnologies.com/infrastructure/global-network/" target="_blank">here</a>.
 

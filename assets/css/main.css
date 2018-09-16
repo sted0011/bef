@@ -1723,9 +1723,14 @@ cite {
       box-shadow: 3px 3px 25px #1c1c1c;
       padding: 8px 5px; }
     #banner .content .title {
-      font-size: 3.5rem;
-      margin: 0 25% 1rem 25%;
-      background: #1c1c1c; }
+      font-size: 1.25rem;
+      margin: 0 20% 1rem 20%;
+      background: #1c1c1c;
+      font-weight: normal;
+      line-height: 1.3; }
+      #banner .content .title span {
+        font-weight: bold;
+        font-size: 1.75rem; }
     #banner .content .sub_title {
       font-weight: 400;
       font-size: 1.35rem;
@@ -2309,8 +2314,10 @@ cite {
   #banner .content {
     padding: 7rem 0; }
     #banner .content .title {
-      font-size: 2rem;
+      font-size: 1rem;
       margin: -15px 0 1rem 0; }
+      #banner .content .title span {
+        font-size: 1.5rem; }
     #banner .content .sub_title {
       font-size: 1.35rem;
       line-height: 2rem;
