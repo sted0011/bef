@@ -54,7 +54,7 @@ cite
 
 .wrapper
   /* width: 1440px */
-  height: 250px
+  height: 150px
   max-width: 90%
   margin: 0 auto
 
@@ -67,8 +67,16 @@ cite
   margin: 0.7rem 1rem
   padding-left: 0.5rem
   font-weight: 700
+  -webkit-transform: perspective(1px) translateZ(0)
+  transform: perspective(1px) translateZ(0)
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0)
+  -webkit-transition-duration: 0.3s
+  transition-duration: 0.3s
+  -webkit-transition-property: tr
   &:hover
-    text-decoration: underline
+    -webkit-transform: scale(1.1)
+    transform: scale(1.1)
+    color: $highlight
 
 .cf::before, .cf::after
   content: ""

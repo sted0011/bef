@@ -1663,7 +1663,7 @@ cite {
 
 .wrapper {
   /* width: 1440px */
-  height: 250px;
+  height: 150px;
   max-width: 90%;
   margin: 0 auto; }
 
@@ -1675,9 +1675,17 @@ cite {
   display: inline-block;
   margin: 0.7rem 1rem;
   padding-left: 0.5rem;
-  font-weight: 700; }
+  font-weight: 700;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: tr; }
   .button_back:hover {
-    text-decoration: underline; }
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color: #1d8487; }
 
 .cf::before, .cf::after {
   content: "";
@@ -1700,18 +1708,31 @@ cite {
   .main_header .logo {
     color: #1c1c1c;
     margin: 0;
-    font-size: 2rem;
+    font-size: 1.4rem;
     text-decoration: none;
     font-weight: 700; }
     .main_header .logo span {
       color: #1d8487;
-      font-weight: 400; }
+      font-weight: 400;
+      text-transform: uppercase; }
   .main_header img {
     height: 40px; }
   .main_header nav a {
     color: #1c1c1c;
     text-decoration: none;
-    margin-left: 2rem; }
+    margin-left: 2rem;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: tr; }
+  .main_header nav a:hover, .main_header nav a:focus, .main_header nav a:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color: #1d8487; }
 
 #banner {
   position: relative; }
@@ -1898,10 +1919,6 @@ cite {
     padding: 1rem 1.85rem;
     margin: 0px auto; }
 
-.main_footer {
-  background-color: #ffffff;
-  border-top: 1px solid #ecf7f8; }
-
 .social_footer {
   padding: 3rem 0;
   list-style: none;
@@ -1921,7 +1938,7 @@ cite {
     transition: all 0.35s ease-in-out;
     border-radius: 32px;
     width: 125px;
-    opacity: 0.5; }
+    opacity: 0.75; }
     .social_footer a:hover {
       background-color: #1d8487;
       color: #ffffff;
@@ -2178,7 +2195,9 @@ cite {
       padding: 0;
       text-align: center; }
       .about .author .author_info .author_title {
-        font-size: 1.75rem; }
+        color: #1d8487;
+        font-weight: 400;
+        text-transform: uppercase; }
       .about .author .author_info .author_subtitle {
         padding-left: 15px;
         padding-right: 15px;
@@ -2231,7 +2250,9 @@ cite {
     text-align: center;
     text-transform: uppercase;
     font-size: 2.2rem;
-    color: #1c1c1c; }
+    color: #1c1c1c;
+    font-weight: 400;
+    text-transform: uppercase; }
     .container_contact .form_title::before, .container_contact .form_title::after {
       content: " — "; }
   .container_contact .form {
@@ -2315,9 +2336,9 @@ cite {
     padding: 7rem 0; }
     #banner .content .title {
       font-size: 1rem;
-      margin: -15px 0 1rem 0; }
+      margin: -30px 0 1rem 0; }
       #banner .content .title span {
-        font-size: 1.5rem; }
+        font-size: 1.4rem; }
     #banner .content .sub_title {
       font-size: 1.35rem;
       line-height: 2rem;
