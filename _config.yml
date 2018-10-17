@@ -49,4 +49,4 @@ gems:
   - jekyll-paginate
 
 include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "rubygems-2.7.7"]
