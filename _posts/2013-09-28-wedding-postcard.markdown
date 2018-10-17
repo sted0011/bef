@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Send me a postcard; Drop me a line"
+title: "Send me a Postcard"
 img: Postcard_Four.png # Add image post (optional)
 imgCard: Postcard-01.png 
 date: 2013-09-28 12:00:00
-type: Graphic Design + Print
+type: Art Direction + Print
 description: Personal Postcard # Add post description (optional)
 tag: [Art Direction, Design, Print]
 ---
-<b>For: Personal Project</b><br/>
-<b>Role: Art Direction + Design</b>
+<div class="col-xs-12 col-sm-4 col-md-4 project-detail"><h4>Client</h4><p>Personal</p>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 project-detail"><h4>Team</h4><p>Solo Project</p>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 project-detail"><h4>Role</h4><p>Art Direction + Graphic Design + Print</p>
+</div>
 
-I created a series of postcards as an alternative to a wedding guestbook. Several of the full-color two-sided designs draw on the theme of travel. The primary image on the front side is a map, identifying a significant location, and the supplemental images and text underscore the geographic significance. The elements are positioned to give the cards a whimsical, folk art feel.  Although the main purpose of the reverse side was to provide blank space to write, I added a cancelation stamp with the ceremony's location and date, and a postage stamp with an engagement photo.
+<div class="col-xs-12 col-sm-4 col-md-4 project-description"><h1>Project</h1></div>
+<div class="col-xs-12 col-sm-8 col-md-8 project-description">I created a series of postcards as an alternative to a wedding guestbook. Several of the full-color two-sided designs draw on the theme of travel. The primary image on the front side is a map, identifying a significant location, and the supplemental images and text underscore the geographic significance. The elements are positioned to give the cards a whimsical, folk art feel.  Although the main purpose of the reverse side was to provide blank space to write, I added a cancelation stamp with the ceremony's location and date, and a postage stamp with an engagement photo.<br><br>
 
-The postcards were designed in Adobe Photoshop and printed on shiny card stock. 
+The postcards were designed in Adobe Photoshop and printed on shiny card stock. </div>
 
 <div class="post_image_addl">
     <img src="/assets/img/Postcard.png" alt="Image of Front and Back of Postcard">
@@ -23,4 +28,11 @@ The postcards were designed in Adobe Photoshop and printed on shiny card stock.
 </div>
 
 <br/>
-> Will you give me yourself? will you come travel with me? Shall we stick by each other as long as we live? <cite>- Walt Whitman</cite>
+<div class="row goals-row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-8 goals-text"><h2>Goals Accomplished</h2>
+        1. Create memorable interaction experience for guests<br>
+        2. Craft future time capsule letter-reading experience for couple<br>
+        3. Make tangible travel and geographical distance themes 
+    </div>
+</div>

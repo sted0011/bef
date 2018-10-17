@@ -13,7 +13,7 @@
 .post
   background-color: $white
   margin-bottom: 1.5rem
-  box-shadow: 3px 3px 20px $shadow
+  box-shadow: 1px 1px 10px $shadow
   header
     position: relative
     overflow: hidden
@@ -22,24 +22,31 @@
       width: 100%
       max-height: 500px
       vertical-align: middle
-    .post_description
-      position: absolute
-      left: 0
-      bottom: 0
+    /* .post_description */
+      /* position: absolute */
+      /* left: 0 */
+      /* bottom: 0 */
     .post_meta
       display: inline-block
       text-transform: uppercase
       padding: 0.5rem 1rem
-      font-size: 1.1rem
+      font-size: 0.9rem
+      letter-spacing: .05em
       margin: 0
       color: $white
-      background-color: rgba($highlight_lighten, 1)
+      background-color: $dark_gray
+      width: 100%
+      padding: 20px 0px 0px 60px
+
     .post_title
       padding: 1rem
-      font-size: 2rem
+      font-size: 1rem
+      font-weight: 200
       margin: 0
-      background-color: rgba($highlight, 1)
+      background-color: $dark_gray
       color: $white
+      width: 100%
+      padding: 0 60px 20px 60px
 
   .entry_content
     padding-bottom: 2rem
@@ -52,11 +59,31 @@
       text-decoration: none
     a:active, a:hover
       color: $highlight_lighten
+    .project-detail h4
+      text-transform: uppercase
+      font-size: 0.8rem
+      letter-spacing: 0.05em
+      margin-left: -20px
+    .project-detail p
+      margin-left: -20px
+      font-weight: 200
+    .project-description
+      margin: 20px 0px 40px -10px
+      padding-top: 40px
+      border-top: solid $white_gray 1px
+      font-weight: 200
+      h1
+        margin-top: 0px
+        margin-left: -10px
+    .goals-row
+      padding-bottom: 20px
+    .goals-text
+      font-weight: 200
 
 .post_footer
   padding: 2rem 0
   background-color: $white
-  border-top: 2px solid $color_gray
+  border-top: 1px solid $white_gray
   span
     text-transform: uppercase
     font-size: 0.8rem
@@ -133,10 +160,12 @@
   background-color: $dark_gray
   padding: 2rem 0
   margin-bottom: 1.5rem
-  box-shadow: 3px 3px 20px $shadow
+  box-shadow: 1px 1px 10px $shadow
   color: $white
   .recent_title
-    font-size: 1.5rem
+    font-size: .8rem
+    text-transform: uppercase
+    letter-spacing: 0.075em
     text-align: center
     margin: 0 0 1.75rem
   .recent_list
@@ -154,11 +183,13 @@
         opacity: .9
       span
         position: absolute
-        bottom: 10%
+        bottom: 0
+        width: 100%
         color: white
-        font-size: 1rem
+        font-size: .75rem
         background-color: rgba($highlight, 1)
-        padding: 5px 18px
+        padding: 7px 18px
+        text-align: center
     .recent_item_post_1
       background-image: url(../images/canyon.jpg)
     .recent_item_post_2

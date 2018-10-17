@@ -1,17 +1,30 @@
 // - - - - - - - - - - Pagination Styles - - - - - - - - - - //
 
 .pagination
-  padding: 2rem 0 6rem
+  padding: 0rem
   text-align: center
+  width: 100%
+  margin: 0 auto
+  background: $black
+  font-size: 0.8rem
+  letter-spacing: 0.05em
+  text-transform: uppercase
+  border-radius: 0px
   a, span
     padding: 0.5rem 1rem
     display: inline-block
-    color: $color_gray
+    color: $white_gray
   a
     text-decoration: none
     &:hover
       color: $highlight
+  a:hover, a:focus, a:active 
+    -webkit-transform: scale(1.1)
+    transform: scale(1.1)
+    color: $highlight
   .active
-    border-bottom: 1px solid $color_gray
+    border-bottom: 1px solid $white_gray
     &:hover
-      color: $color_gray
+      color: $white_gray
+  span.disabled
+    color: $color_gray
