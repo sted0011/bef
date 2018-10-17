@@ -15,8 +15,8 @@ tag: [UI, Web Design]
 
 <div class="col-xs-12 col-sm-4 col-md-4 project-description"><h1>Project</h1></div>
 <div class="col-xs-12 col-sm-8 col-md-8 project-description">Trading Technologies has a distinctive style of iconography: abstract, suggestive, and linear.  The company iconography of the brand is not intended to be a set of literal wayfinders, but rather abstract, interpretive representations of broad concepts in the trading software product. They develop meaning over time and exposure, and almost always include a lockup with a textual description of the associated concept.<br><br>
-When the iconography was created, the set was limited.  Overtime the company's iconography needs expanded.  That's is where my work comes in.  I built out the icon library, expanded its use on the web site, generated navigational tiles around the icons, and crafted slide layouts around the icons.  My icons retain the linear nature, circular enclosure, and color palette of the original icon set, but expand the applications and deepen the library.<br><br>
-To show my process, you'll find three examples of software visuals that I used for inspiration, and the icons that grew out of those visuals. Also included are examples of digital applications.</div>
+When the iconography was created, the set was limited.  Overtime the company's iconography needs expanded.  That's is where my work comes in.  I built out the icon library, expanded its use on the web site, generated navigational tiles around the icons, and crafted slide layouts around the icons.  My icons retain the linear nature, circular enclosure, and color palette of the original icon set, but deepen the library and expand the applications.<br><br>
+Below you can see the icons I developed.  To help understand my process, you will see three examples of software visuals that I used for inspiration, and the icons that grew out of those visuals. Also included are examples of digital applications.</div>
 
 <div class="post_image_addl">
     <img src="/assets/img/Iconography-Set.png" alt="An iconography set">
