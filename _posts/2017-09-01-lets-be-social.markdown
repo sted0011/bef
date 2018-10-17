@@ -22,7 +22,7 @@ Recently, I developed a multi-week, multi-platform social media plan to promote 
 
 Below you can see a collection of previous snappy, cheerful animations I produced; on-brand messaging templates I composed; and a selection of focused, engaging photographs I curated into a meaningful and effective social media resources library.  </div>
 
-<div class="col-xs-12" style="padding: 0;">
+<div id="turkey" class="col-xs-12" style="padding: 0;">
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/289396793?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 <div class="post_image_addl">
