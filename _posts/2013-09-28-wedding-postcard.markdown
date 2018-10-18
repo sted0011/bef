@@ -33,6 +33,6 @@ The postcards were designed in Adobe Photoshop and printed on shiny card stock. 
     <div class="col-sm-8 goals-text"><h2>Goals Accomplished</h2>
         1. Create interactive experience for guests<br>
         2. Craft memorable keepsakes for couple<br>
-        3. Adhere to travel theme
+        3. Playful interpretation of travel theme
     </div>
 </div>
