@@ -31,8 +31,8 @@ The postcards were designed in Adobe Photoshop and printed on shiny card stock. 
 <div class="row goals-row">
     <div class="col-sm-4"></div>
     <div class="col-sm-8 goals-text"><h2>Goals Accomplished</h2>
-        1. Create memorable interaction experience for guests<br>
-        2. Craft future time capsule letter-reading experience for couple<br>
-        3. Make tangible travel and geographical distance themes 
+        1. Create interactive experience for guests<br>
+        2. Craft memorable keepsakes for couple<br>
+        3. Adhere to travel theme
     </div>
 </div>

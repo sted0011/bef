@@ -43,7 +43,7 @@ tag: [Branding, Web Design]
 <div class="post_image_addl">
     <img src="/assets/img/Branding-Mobile-Photograph.png" alt="Showing the mockups on mobile devices">
 </div>
-<div class="post_image_addl">
+<div class="post_image_addl border-bottom">
     <img src="/assets/img/Branding_Logo_Animation.gif" alt="Moving logo">
 </div>
 <div class="row goals-row">
