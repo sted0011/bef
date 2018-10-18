@@ -42,4 +42,11 @@ Here are examples of landing pages that I coded for Trading Technologies.  The f
     <img src="/assets/img/Web-Development-trynow-02.png" alt="Showing a Landing Page both desktop and mobile design, bottom">
 </div>
 <br/>
-> Digital design is like painting, except the paint never dries. <cite>― Neville Brody</cite>
+<div class="row goals-row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-8 goals-text"><h2>Goals Accomplished</h2>
+        1. Create compelling landing pages<br>
+        2. Straightforward with clear call-to-action<br>
+        3. Responsive, tested design
+    </div>
+</div>
