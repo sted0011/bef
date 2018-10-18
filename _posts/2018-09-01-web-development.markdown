@@ -47,6 +47,6 @@ Here are examples of landing pages that I coded for Trading Technologies.  The f
     <div class="col-sm-8 goals-text"><h2>Goals Accomplished</h2>
         1. Create compelling landing pages<br>
         2. Straightforward layout with clear call-to-action<br>
-        3. Responsive, tested design
+        3. Responsive, tested designs
     </div>
 </div>

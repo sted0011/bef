@@ -2187,7 +2187,7 @@ cite {
   width: 960px;
   max-width: 90%;
   margin: 3rem auto 7rem;
-  box-shadow: 3px 3px 20px #bbbbbb; }
+  box-shadow: 1px 1px 10px #bbbbbb; }
   #tags h1 {
     text-align: center;
     margin: 2rem 0 3rem;
@@ -2245,7 +2245,7 @@ cite {
     border-radius: 0rem;
     margin-bottom: 5rem;
     border: solid 1px #e6f4f6;
-    box-shadow: 3px 3px 20px #bbbbbb;
+    box-shadow: 1px 1px 10px #bbbbbb;
     padding-left: 15px;
     padding-right: 15px; }
     .about .author .author_image {
